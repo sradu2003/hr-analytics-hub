@@ -1,0 +1,481 @@
+requisition_id,department,role_type,region,stage,application_date,days_in_stage,hire_date,status
+REQ-2000,Asset Management,Manager,West,Applications,2026-02-13,27,,Open
+REQ-2001,Engineering,Project Lead,Oost,Interviewed,2026-01-25,10,,Open
+REQ-2002,IT & Digital,Manager,Zuid,Applications,2026-05-05,9,,Open
+REQ-2003,Asset Management,Analyst,Oost,Applications,2025-12-15,27,,Open
+REQ-2004,HR,Manager,Zuid,Hired,2026-01-01,9,2026-02-20,Closed
+REQ-2005,Finance,Office Specialist,Zuid,Applications,2026-02-01,24,,Open
+REQ-2006,Customer Services,Manager,Oost,Screened,2025-12-28,12,,Open
+REQ-2007,Finance,Manager,Centraal,Interviewed,2025-11-14,9,,Open
+REQ-2008,Customer Services,Analyst,West,Applications,2026-01-11,18,,Open
+REQ-2009,Engineering,Engineer,Centraal,Applications,2026-02-22,11,,Open
+REQ-2010,Safety & Compliance,Analyst,West,Applications,2025-11-30,27,,Open
+REQ-2011,Safety & Compliance,Engineer,West,Applications,2026-01-27,26,,Open
+REQ-2012,Asset Management,Project Lead,Zuid,Interviewed,2025-12-18,20,,Open
+REQ-2013,Safety & Compliance,Office Specialist,Centraal,Applications,2026-01-22,6,,Open
+REQ-2014,HR,Field Technician,Oost,Interviewed,2026-01-21,15,,Open
+REQ-2015,IT & Digital,Engineer,Zuid,Offer Made,2026-02-19,29,,Open
+REQ-2016,HR,Office Specialist,Zuid,Screened,2026-04-01,14,,Open
+REQ-2017,Asset Management,Project Lead,Oost,Offer Made,2026-02-11,21,,Open
+REQ-2018,HR,Engineer,Noord,Hired,2026-01-16,13,2026-04-03,Closed
+REQ-2019,HR,Analyst,Oost,Interviewed,2026-04-25,2,,Open
+REQ-2020,Safety & Compliance,Field Technician,Zuid,Applications,2025-12-05,21,,Open
+REQ-2021,Finance,Field Technician,West,Applications,2026-02-27,26,,Open
+REQ-2022,IT & Digital,Field Technician,West,Applications,2025-12-11,8,,Open
+REQ-2023,IT & Digital,Field Technician,West,Applications,2026-02-19,22,,Open
+REQ-2024,IT & Digital,Analyst,Zuid,Offer Made,2025-11-17,4,,Open
+REQ-2025,Safety & Compliance,Manager,Centraal,Applications,2026-03-08,10,,Open
+REQ-2026,Safety & Compliance,Analyst,Oost,Applications,2026-03-24,11,,Open
+REQ-2027,Asset Management,Office Specialist,Noord,Offer Made,2025-12-09,17,,Open
+REQ-2028,HR,Analyst,West,Applications,2026-02-17,11,,Open
+REQ-2029,Engineering,Engineer,Zuid,Applications,2026-05-03,1,,Open
+REQ-2030,Asset Management,Field Technician,Centraal,Applications,2026-04-02,2,,Open
+REQ-2031,Asset Management,Manager,West,Screened,2025-12-25,22,,Open
+REQ-2032,IT & Digital,Office Specialist,Zuid,Applications,2026-02-02,3,,Open
+REQ-2033,Asset Management,Field Technician,Oost,Screened,2026-02-15,2,,Open
+REQ-2034,Engineering,Office Specialist,Centraal,Screened,2026-02-24,18,,Open
+REQ-2035,Asset Management,Field Technician,Centraal,Applications,2026-05-03,12,,Open
+REQ-2036,Asset Management,Analyst,West,Applications,2026-02-02,19,,Open
+REQ-2037,Grid Operations,Manager,Centraal,Applications,2026-01-10,7,,Open
+REQ-2038,Engineering,Analyst,Oost,Offer Made,2026-04-18,11,,Open
+REQ-2039,HR,Project Lead,Oost,Screened,2026-03-17,29,,Open
+REQ-2040,Asset Management,Field Technician,Noord,Applications,2026-04-29,29,,Open
+REQ-2041,Asset Management,Engineer,West,Applications,2026-02-10,26,,Open
+REQ-2042,Grid Operations,Office Specialist,Zuid,Applications,2026-03-07,2,,Open
+REQ-2043,Customer Services,Project Lead,West,Screened,2025-12-02,19,,Open
+REQ-2044,HR,Manager,Zuid,Applications,2026-03-04,9,,Open
+REQ-2045,Customer Services,Field Technician,Noord,Interviewed,2025-11-11,27,,Open
+REQ-2046,IT & Digital,Office Specialist,Oost,Applications,2026-03-08,6,,Open
+REQ-2047,Grid Operations,Engineer,West,Applications,2026-01-17,1,,Open
+REQ-2048,HR,Field Technician,Centraal,Hired,2026-04-25,5,2026-06-02,Closed
+REQ-2049,Safety & Compliance,Project Lead,Zuid,Screened,2026-04-26,2,,Open
+REQ-2050,HR,Engineer,Centraal,Offer Made,2026-02-22,1,,Open
+REQ-2051,Engineering,Manager,Noord,Interviewed,2026-02-19,22,,Open
+REQ-2052,Safety & Compliance,Field Technician,Zuid,Applications,2025-11-10,3,,Open
+REQ-2053,Customer Services,Analyst,West,Interviewed,2025-12-23,3,,Open
+REQ-2054,Safety & Compliance,Analyst,West,Applications,2026-01-18,16,,Open
+REQ-2055,HR,Office Specialist,Centraal,Applications,2026-03-17,3,,Open
+REQ-2056,Asset Management,Manager,West,Offer Made,2026-01-16,5,,Open
+REQ-2057,Engineering,Field Technician,Zuid,Applications,2026-03-31,12,,Open
+REQ-2058,Engineering,Analyst,Oost,Interviewed,2026-04-10,21,,Open
+REQ-2059,HR,Engineer,West,Applications,2025-11-09,23,,Open
+REQ-2060,Grid Operations,Office Specialist,Centraal,Applications,2026-04-13,15,,Open
+REQ-2061,Grid Operations,Engineer,Zuid,Applications,2026-03-07,12,,Open
+REQ-2062,Customer Services,Analyst,Noord,Applications,2026-03-25,22,,Open
+REQ-2063,HR,Field Technician,Noord,Screened,2026-01-23,23,,Open
+REQ-2064,IT & Digital,Project Lead,Zuid,Applications,2025-12-13,20,,Open
+REQ-2065,IT & Digital,Manager,Centraal,Applications,2026-03-04,28,,Open
+REQ-2066,HR,Office Specialist,Noord,Applications,2026-04-11,11,,Open
+REQ-2067,IT & Digital,Analyst,Oost,Offer Made,2025-11-17,15,,Open
+REQ-2068,Customer Services,Office Specialist,West,Applications,2026-03-21,2,,Open
+REQ-2069,Safety & Compliance,Office Specialist,Zuid,Applications,2025-12-13,12,,Open
+REQ-2070,Asset Management,Project Lead,Oost,Hired,2026-03-14,19,2026-04-26,Closed
+REQ-2071,IT & Digital,Project Lead,West,Offer Made,2026-03-25,3,,Open
+REQ-2072,HR,Project Lead,Centraal,Interviewed,2026-03-03,3,,Open
+REQ-2073,Customer Services,Analyst,Oost,Interviewed,2026-01-20,25,,Open
+REQ-2074,Finance,Office Specialist,Oost,Screened,2025-11-18,15,,Open
+REQ-2075,HR,Office Specialist,West,Screened,2026-01-02,12,,Open
+REQ-2076,Asset Management,Analyst,Centraal,Hired,2026-02-17,23,2026-04-02,Closed
+REQ-2077,Customer Services,Analyst,Noord,Applications,2026-05-02,13,,Open
+REQ-2078,Finance,Manager,West,Applications,2026-02-06,8,,Open
+REQ-2079,Customer Services,Engineer,West,Applications,2026-02-27,17,,Open
+REQ-2080,Asset Management,Manager,Oost,Interviewed,2026-01-31,4,,Open
+REQ-2081,IT & Digital,Manager,Oost,Offer Made,2026-04-11,25,,Open
+REQ-2082,Asset Management,Field Technician,Noord,Interviewed,2026-02-26,9,,Open
+REQ-2083,Safety & Compliance,Engineer,Zuid,Applications,2026-01-07,15,,Open
+REQ-2084,IT & Digital,Manager,Centraal,Offer Made,2026-02-13,5,,Open
+REQ-2085,IT & Digital,Analyst,Noord,Offer Made,2025-12-06,6,,Open
+REQ-2086,Grid Operations,Field Technician,Oost,Screened,2026-04-26,9,,Open
+REQ-2087,Finance,Analyst,Oost,Applications,2026-04-15,5,,Open
+REQ-2088,Safety & Compliance,Project Lead,Noord,Applications,2026-02-12,20,,Open
+REQ-2089,Finance,Office Specialist,Noord,Screened,2025-12-17,1,,Open
+REQ-2090,Finance,Office Specialist,Zuid,Screened,2026-04-02,7,,Open
+REQ-2091,Asset Management,Office Specialist,Noord,Screened,2026-02-11,16,,Open
+REQ-2092,HR,Engineer,Oost,Applications,2026-04-27,25,,Open
+REQ-2093,HR,Project Lead,Oost,Applications,2026-05-05,10,,Open
+REQ-2094,Asset Management,Analyst,West,Applications,2025-11-18,18,,Open
+REQ-2095,Finance,Office Specialist,Noord,Applications,2026-04-28,17,,Open
+REQ-2096,Customer Services,Engineer,Centraal,Offer Made,2026-03-14,23,,Open
+REQ-2097,HR,Manager,Centraal,Applications,2026-04-05,5,,Open
+REQ-2098,Asset Management,Engineer,Oost,Interviewed,2026-01-08,28,,Open
+REQ-2099,Customer Services,Analyst,Centraal,Interviewed,2025-12-17,29,,Open
+REQ-2100,Asset Management,Office Specialist,Zuid,Interviewed,2025-11-28,4,,Open
+REQ-2101,Engineering,Engineer,Noord,Applications,2026-01-16,25,,Open
+REQ-2102,Finance,Office Specialist,Centraal,Interviewed,2026-04-08,3,,Open
+REQ-2103,Finance,Analyst,Noord,Screened,2026-01-26,21,,Open
+REQ-2104,Asset Management,Analyst,Centraal,Applications,2026-03-12,2,,Open
+REQ-2105,Engineering,Analyst,Noord,Applications,2025-12-15,13,,Open
+REQ-2106,Grid Operations,Field Technician,West,Offer Made,2026-04-12,18,,Open
+REQ-2107,Safety & Compliance,Manager,Noord,Applications,2026-02-05,24,,Open
+REQ-2108,Grid Operations,Field Technician,Noord,Applications,2025-11-15,25,,Open
+REQ-2109,Safety & Compliance,Engineer,West,Applications,2026-04-26,3,,Open
+REQ-2110,Customer Services,Office Specialist,Zuid,Interviewed,2025-11-12,27,,Open
+REQ-2111,Engineering,Manager,Noord,Applications,2025-12-11,8,,Open
+REQ-2112,Customer Services,Manager,Oost,Applications,2026-04-22,16,,Open
+REQ-2113,Safety & Compliance,Office Specialist,Centraal,Applications,2026-04-24,18,,Open
+REQ-2114,Asset Management,Field Technician,Oost,Applications,2026-01-04,7,,Open
+REQ-2115,HR,Office Specialist,Centraal,Applications,2026-01-03,13,,Open
+REQ-2116,Grid Operations,Analyst,West,Offer Made,2026-01-02,20,,Open
+REQ-2117,Grid Operations,Manager,Centraal,Screened,2026-03-24,29,,Open
+REQ-2118,HR,Manager,Zuid,Applications,2026-02-24,26,,Open
+REQ-2119,Asset Management,Office Specialist,West,Applications,2026-01-06,18,,Open
+REQ-2120,HR,Project Lead,Centraal,Applications,2026-01-11,18,,Open
+REQ-2121,Grid Operations,Engineer,Zuid,Applications,2026-04-01,2,,Open
+REQ-2122,HR,Project Lead,Centraal,Offer Made,2026-04-11,23,,Open
+REQ-2123,Customer Services,Analyst,Zuid,Screened,2026-02-03,12,,Open
+REQ-2124,Finance,Manager,West,Interviewed,2026-04-10,22,,Open
+REQ-2125,Engineering,Field Technician,Noord,Interviewed,2026-03-16,23,,Open
+REQ-2126,Grid Operations,Analyst,Zuid,Hired,2026-01-21,9,2026-02-23,Closed
+REQ-2127,Asset Management,Office Specialist,Zuid,Screened,2025-12-02,17,,Open
+REQ-2128,Finance,Field Technician,West,Screened,2025-12-17,6,,Open
+REQ-2129,Grid Operations,Project Lead,Centraal,Hired,2025-11-16,29,2026-01-19,Closed
+REQ-2130,IT & Digital,Field Technician,Oost,Applications,2026-02-12,24,,Open
+REQ-2131,Engineering,Engineer,West,Applications,2025-11-09,11,,Open
+REQ-2132,HR,Manager,West,Offer Made,2026-04-25,14,,Open
+REQ-2133,Safety & Compliance,Manager,West,Applications,2025-11-28,22,,Open
+REQ-2134,HR,Office Specialist,Oost,Interviewed,2026-04-24,4,,Open
+REQ-2135,Safety & Compliance,Analyst,Centraal,Hired,2026-03-14,15,2026-05-28,Closed
+REQ-2136,Engineering,Engineer,Oost,Screened,2025-11-17,19,,Open
+REQ-2137,HR,Analyst,Zuid,Offer Made,2025-12-18,25,,Open
+REQ-2138,IT & Digital,Office Specialist,Centraal,Applications,2025-12-19,24,,Open
+REQ-2139,Finance,Manager,Zuid,Applications,2026-01-04,19,,Open
+REQ-2140,HR,Office Specialist,Centraal,Offer Made,2026-04-17,4,,Open
+REQ-2141,Finance,Manager,West,Interviewed,2025-12-03,22,,Open
+REQ-2142,Engineering,Engineer,Noord,Applications,2025-11-18,12,,Open
+REQ-2143,HR,Project Lead,West,Applications,2025-12-26,24,,Open
+REQ-2144,Grid Operations,Field Technician,West,Interviewed,2025-12-02,27,,Open
+REQ-2145,HR,Field Technician,Zuid,Applications,2026-01-08,27,,Open
+REQ-2146,IT & Digital,Office Specialist,Oost,Applications,2026-02-10,2,,Open
+REQ-2147,Grid Operations,Project Lead,Centraal,Applications,2026-03-07,1,,Open
+REQ-2148,Customer Services,Manager,Centraal,Offer Made,2026-03-08,20,,Open
+REQ-2149,Grid Operations,Office Specialist,Zuid,Applications,2026-03-31,14,,Open
+REQ-2150,Engineering,Project Lead,Centraal,Interviewed,2026-01-21,17,,Open
+REQ-2151,Grid Operations,Manager,Centraal,Applications,2026-02-17,23,,Open
+REQ-2152,Safety & Compliance,Field Technician,Oost,Interviewed,2026-03-07,9,,Open
+REQ-2153,HR,Analyst,West,Screened,2025-11-27,19,,Open
+REQ-2154,Customer Services,Analyst,Noord,Applications,2026-02-05,6,,Open
+REQ-2155,Customer Services,Engineer,Noord,Applications,2026-01-22,20,,Open
+REQ-2156,Safety & Compliance,Engineer,Oost,Screened,2026-02-13,28,,Open
+REQ-2157,Finance,Engineer,Oost,Hired,2026-04-10,10,2026-06-22,Closed
+REQ-2158,HR,Analyst,Oost,Hired,2025-12-26,24,2026-01-25,Closed
+REQ-2159,Engineering,Project Lead,Zuid,Screened,2025-11-23,23,,Open
+REQ-2160,Asset Management,Engineer,Noord,Applications,2025-12-11,16,,Open
+REQ-2161,HR,Project Lead,Noord,Screened,2025-11-24,27,,Open
+REQ-2162,Engineering,Analyst,Zuid,Applications,2026-04-19,9,,Open
+REQ-2163,HR,Analyst,Centraal,Hired,2026-03-21,9,2026-04-20,Closed
+REQ-2164,Safety & Compliance,Analyst,Zuid,Interviewed,2026-02-07,28,,Open
+REQ-2165,Asset Management,Analyst,Noord,Hired,2026-03-10,18,2026-05-08,Closed
+REQ-2166,Safety & Compliance,Engineer,Noord,Applications,2025-12-10,14,,Open
+REQ-2167,Safety & Compliance,Field Technician,Centraal,Applications,2026-01-16,14,,Open
+REQ-2168,Finance,Analyst,Oost,Applications,2026-01-07,23,,Open
+REQ-2169,Asset Management,Manager,Zuid,Offer Made,2026-03-06,18,,Open
+REQ-2170,Grid Operations,Field Technician,Noord,Interviewed,2026-01-31,10,,Open
+REQ-2171,Customer Services,Engineer,Centraal,Screened,2025-12-02,5,,Open
+REQ-2172,Asset Management,Engineer,Oost,Interviewed,2026-02-24,5,,Open
+REQ-2173,HR,Field Technician,Noord,Interviewed,2026-01-19,21,,Open
+REQ-2174,Customer Services,Engineer,West,Screened,2026-03-10,22,,Open
+REQ-2175,IT & Digital,Project Lead,West,Applications,2026-01-18,23,,Open
+REQ-2176,Safety & Compliance,Project Lead,Zuid,Applications,2026-02-20,25,,Open
+REQ-2177,Finance,Office Specialist,Zuid,Screened,2025-11-21,12,,Open
+REQ-2178,Safety & Compliance,Project Lead,Zuid,Offer Made,2025-11-25,9,,Open
+REQ-2179,Asset Management,Office Specialist,Zuid,Screened,2026-03-28,7,,Open
+REQ-2180,Engineering,Engineer,West,Applications,2025-12-16,14,,Open
+REQ-2181,Finance,Field Technician,Oost,Applications,2026-03-12,9,,Open
+REQ-2182,Grid Operations,Project Lead,Oost,Applications,2026-02-16,8,,Open
+REQ-2183,Asset Management,Analyst,Centraal,Offer Made,2026-04-11,20,,Open
+REQ-2184,Finance,Office Specialist,Zuid,Hired,2026-01-01,15,2026-01-25,Closed
+REQ-2185,Asset Management,Manager,Centraal,Applications,2026-02-17,23,,Open
+REQ-2186,IT & Digital,Project Lead,Oost,Interviewed,2026-03-23,6,,Open
+REQ-2187,HR,Field Technician,Centraal,Applications,2026-04-29,27,,Open
+REQ-2188,Asset Management,Analyst,Zuid,Screened,2025-11-25,21,,Open
+REQ-2189,HR,Analyst,Oost,Interviewed,2026-04-07,11,,Open
+REQ-2190,Asset Management,Manager,West,Applications,2026-01-24,27,,Open
+REQ-2191,IT & Digital,Engineer,Zuid,Screened,2026-03-14,27,,Open
+REQ-2192,Asset Management,Field Technician,West,Offer Made,2026-04-05,23,,Open
+REQ-2193,Customer Services,Analyst,West,Offer Made,2026-04-16,11,,Open
+REQ-2194,Customer Services,Analyst,Zuid,Offer Made,2026-04-05,22,,Open
+REQ-2195,Customer Services,Field Technician,Centraal,Applications,2026-02-06,11,,Open
+REQ-2196,IT & Digital,Analyst,Zuid,Interviewed,2026-03-10,13,,Open
+REQ-2197,Grid Operations,Project Lead,Centraal,Screened,2025-12-27,9,,Open
+REQ-2198,IT & Digital,Project Lead,Noord,Applications,2026-04-28,4,,Open
+REQ-2199,Engineering,Engineer,West,Applications,2026-03-03,26,,Open
+REQ-2200,IT & Digital,Engineer,West,Offer Made,2026-02-07,18,,Open
+REQ-2201,HR,Field Technician,Oost,Applications,2026-04-01,28,,Open
+REQ-2202,Safety & Compliance,Engineer,Oost,Screened,2025-11-28,26,,Open
+REQ-2203,Grid Operations,Project Lead,Oost,Screened,2026-02-24,17,,Open
+REQ-2204,Grid Operations,Analyst,Oost,Applications,2025-11-16,2,,Open
+REQ-2205,HR,Analyst,Oost,Interviewed,2026-01-24,10,,Open
+REQ-2206,Finance,Analyst,Noord,Screened,2026-02-11,6,,Open
+REQ-2207,HR,Office Specialist,West,Hired,2026-03-23,23,2026-06-05,Closed
+REQ-2208,Grid Operations,Office Specialist,Oost,Applications,2026-02-03,24,,Open
+REQ-2209,Grid Operations,Engineer,Oost,Screened,2026-01-15,22,,Open
+REQ-2210,HR,Field Technician,West,Interviewed,2026-04-12,14,,Open
+REQ-2211,Customer Services,Engineer,Zuid,Hired,2026-02-03,9,2026-03-29,Closed
+REQ-2212,IT & Digital,Office Specialist,West,Applications,2026-02-18,25,,Open
+REQ-2213,Grid Operations,Project Lead,Zuid,Hired,2025-11-23,6,2026-01-21,Closed
+REQ-2214,HR,Office Specialist,Zuid,Applications,2026-01-28,11,,Open
+REQ-2215,Grid Operations,Project Lead,Zuid,Applications,2026-02-11,20,,Open
+REQ-2216,IT & Digital,Office Specialist,Oost,Hired,2025-12-17,6,2026-01-14,Closed
+REQ-2217,Grid Operations,Field Technician,Centraal,Hired,2026-04-24,1,2026-05-20,Closed
+REQ-2218,Safety & Compliance,Office Specialist,Centraal,Applications,2026-05-04,14,,Open
+REQ-2219,Safety & Compliance,Office Specialist,West,Offer Made,2026-02-09,12,,Open
+REQ-2220,Finance,Engineer,West,Hired,2026-02-22,27,2026-04-18,Closed
+REQ-2221,Asset Management,Field Technician,Noord,Applications,2026-03-18,23,,Open
+REQ-2222,Finance,Office Specialist,Oost,Screened,2026-04-27,24,,Open
+REQ-2223,Asset Management,Manager,Zuid,Applications,2026-02-13,24,,Open
+REQ-2224,Safety & Compliance,Manager,Centraal,Interviewed,2025-12-03,17,,Open
+REQ-2225,Grid Operations,Engineer,West,Interviewed,2025-12-02,21,,Open
+REQ-2226,HR,Field Technician,Noord,Offer Made,2026-03-17,6,,Open
+REQ-2227,Engineering,Analyst,Zuid,Applications,2025-12-20,29,,Open
+REQ-2228,Safety & Compliance,Engineer,Centraal,Applications,2025-12-24,26,,Open
+REQ-2229,Customer Services,Engineer,Centraal,Screened,2026-01-04,8,,Open
+REQ-2230,Finance,Analyst,Noord,Applications,2026-03-19,19,,Open
+REQ-2231,HR,Manager,Oost,Applications,2026-03-19,2,,Open
+REQ-2232,Safety & Compliance,Project Lead,Oost,Applications,2026-03-31,2,,Open
+REQ-2233,Engineering,Manager,West,Applications,2026-02-19,16,,Open
+REQ-2234,IT & Digital,Manager,Zuid,Applications,2025-11-20,7,,Open
+REQ-2235,Engineering,Analyst,Noord,Screened,2026-01-27,8,,Open
+REQ-2236,Finance,Office Specialist,Oost,Offer Made,2025-11-18,22,,Open
+REQ-2237,IT & Digital,Analyst,Oost,Applications,2026-04-23,14,,Open
+REQ-2238,Engineering,Office Specialist,Oost,Offer Made,2026-02-22,12,,Open
+REQ-2239,Engineering,Field Technician,Zuid,Applications,2025-11-28,8,,Open
+REQ-2240,Finance,Project Lead,Noord,Interviewed,2026-04-08,16,,Open
+REQ-2241,Safety & Compliance,Office Specialist,West,Screened,2025-11-29,7,,Open
+REQ-2242,Engineering,Field Technician,Oost,Interviewed,2026-04-22,12,,Open
+REQ-2243,HR,Office Specialist,Oost,Screened,2025-12-31,24,,Open
+REQ-2244,HR,Office Specialist,Noord,Applications,2025-12-09,2,,Open
+REQ-2245,HR,Field Technician,Zuid,Applications,2025-11-17,15,,Open
+REQ-2246,HR,Manager,Zuid,Applications,2025-11-17,9,,Open
+REQ-2247,HR,Office Specialist,Zuid,Applications,2026-01-13,21,,Open
+REQ-2248,Grid Operations,Office Specialist,West,Interviewed,2026-03-18,18,,Open
+REQ-2249,IT & Digital,Office Specialist,Oost,Offer Made,2026-04-05,22,,Open
+REQ-2250,Safety & Compliance,Manager,Oost,Interviewed,2026-05-02,24,,Open
+REQ-2251,Finance,Manager,Centraal,Interviewed,2026-02-15,9,,Open
+REQ-2252,HR,Project Lead,Zuid,Applications,2026-02-13,14,,Open
+REQ-2253,HR,Office Specialist,Zuid,Interviewed,2026-04-25,29,,Open
+REQ-2254,Safety & Compliance,Analyst,Oost,Applications,2026-03-01,21,,Open
+REQ-2255,HR,Field Technician,Zuid,Applications,2026-01-02,27,,Open
+REQ-2256,HR,Office Specialist,Centraal,Interviewed,2026-01-31,6,,Open
+REQ-2257,Asset Management,Field Technician,Oost,Screened,2025-12-15,3,,Open
+REQ-2258,Grid Operations,Field Technician,Noord,Applications,2026-02-10,2,,Open
+REQ-2259,Engineering,Engineer,Oost,Hired,2026-04-09,2,2026-06-18,Closed
+REQ-2260,Customer Services,Analyst,Centraal,Applications,2025-11-09,26,,Open
+REQ-2261,Grid Operations,Field Technician,Noord,Offer Made,2026-04-15,14,,Open
+REQ-2262,HR,Office Specialist,West,Applications,2026-03-30,3,,Open
+REQ-2263,Grid Operations,Office Specialist,Oost,Applications,2026-01-26,11,,Open
+REQ-2264,Engineering,Analyst,Zuid,Interviewed,2026-03-14,22,,Open
+REQ-2265,IT & Digital,Field Technician,Oost,Screened,2026-02-28,27,,Open
+REQ-2266,Engineering,Project Lead,Centraal,Applications,2026-03-07,20,,Open
+REQ-2267,HR,Engineer,Zuid,Interviewed,2025-11-16,21,,Open
+REQ-2268,Grid Operations,Project Lead,Zuid,Interviewed,2026-02-05,8,,Open
+REQ-2269,Finance,Engineer,Noord,Interviewed,2025-12-25,19,,Open
+REQ-2270,Engineering,Manager,Centraal,Interviewed,2026-01-06,11,,Open
+REQ-2271,Safety & Compliance,Manager,Noord,Interviewed,2026-03-05,11,,Open
+REQ-2272,Engineering,Project Lead,Noord,Interviewed,2025-11-25,14,,Open
+REQ-2273,Engineering,Office Specialist,Zuid,Hired,2025-11-29,21,2026-01-14,Closed
+REQ-2274,Customer Services,Engineer,Centraal,Hired,2026-04-06,10,2026-05-11,Closed
+REQ-2275,Engineering,Project Lead,Oost,Hired,2026-04-09,16,2026-05-06,Closed
+REQ-2276,Asset Management,Analyst,Noord,Interviewed,2026-05-03,20,,Open
+REQ-2277,Asset Management,Manager,Oost,Applications,2025-11-26,15,,Open
+REQ-2278,Asset Management,Analyst,West,Offer Made,2026-02-07,10,,Open
+REQ-2279,Finance,Office Specialist,Zuid,Interviewed,2025-12-19,23,,Open
+REQ-2280,HR,Field Technician,West,Applications,2025-12-02,8,,Open
+REQ-2281,Safety & Compliance,Analyst,Oost,Offer Made,2025-11-15,26,,Open
+REQ-2282,HR,Analyst,Zuid,Applications,2026-04-24,17,,Open
+REQ-2283,Engineering,Office Specialist,Centraal,Applications,2026-02-16,24,,Open
+REQ-2284,Engineering,Field Technician,Zuid,Hired,2025-12-23,13,2026-03-06,Closed
+REQ-2285,Engineering,Field Technician,Centraal,Applications,2026-03-03,5,,Open
+REQ-2286,Grid Operations,Office Specialist,Centraal,Interviewed,2025-11-17,8,,Open
+REQ-2287,Grid Operations,Manager,Noord,Interviewed,2026-01-26,16,,Open
+REQ-2288,Asset Management,Analyst,West,Screened,2025-12-24,14,,Open
+REQ-2289,Asset Management,Analyst,Oost,Applications,2026-03-07,16,,Open
+REQ-2290,HR,Engineer,West,Interviewed,2026-01-30,3,,Open
+REQ-2291,Engineering,Field Technician,Zuid,Applications,2026-01-22,13,,Open
+REQ-2292,Asset Management,Analyst,Oost,Applications,2025-11-26,25,,Open
+REQ-2293,Customer Services,Office Specialist,Centraal,Interviewed,2026-02-09,21,,Open
+REQ-2294,Safety & Compliance,Engineer,Centraal,Applications,2025-11-29,10,,Open
+REQ-2295,Customer Services,Manager,Zuid,Interviewed,2026-04-08,27,,Open
+REQ-2296,Safety & Compliance,Analyst,Centraal,Applications,2026-04-19,27,,Open
+REQ-2297,Safety & Compliance,Engineer,Noord,Offer Made,2026-02-08,1,,Open
+REQ-2298,Safety & Compliance,Manager,Zuid,Applications,2026-04-17,20,,Open
+REQ-2299,Engineering,Field Technician,Noord,Screened,2025-11-09,25,,Open
+REQ-2300,IT & Digital,Engineer,Zuid,Applications,2026-02-16,24,,Open
+REQ-2301,Customer Services,Manager,Oost,Applications,2026-03-04,14,,Open
+REQ-2302,Safety & Compliance,Engineer,Zuid,Applications,2026-05-04,13,,Open
+REQ-2303,Engineering,Manager,Noord,Applications,2025-11-28,22,,Open
+REQ-2304,Finance,Project Lead,Centraal,Applications,2026-04-12,3,,Open
+REQ-2305,Safety & Compliance,Manager,Oost,Applications,2026-01-20,24,,Open
+REQ-2306,IT & Digital,Engineer,Noord,Applications,2026-04-21,26,,Open
+REQ-2307,Safety & Compliance,Analyst,Zuid,Applications,2026-04-21,19,,Open
+REQ-2308,IT & Digital,Manager,West,Offer Made,2025-12-23,2,,Open
+REQ-2309,IT & Digital,Project Lead,Centraal,Hired,2026-01-31,4,2026-04-19,Closed
+REQ-2310,Grid Operations,Manager,Zuid,Interviewed,2025-11-29,2,,Open
+REQ-2311,Safety & Compliance,Project Lead,West,Applications,2026-03-11,23,,Open
+REQ-2312,HR,Field Technician,Zuid,Applications,2025-11-20,26,,Open
+REQ-2313,Safety & Compliance,Manager,West,Applications,2026-01-04,22,,Open
+REQ-2314,IT & Digital,Analyst,Oost,Interviewed,2025-12-04,20,,Open
+REQ-2315,HR,Project Lead,West,Interviewed,2026-04-01,5,,Open
+REQ-2316,Finance,Project Lead,Zuid,Interviewed,2026-04-21,9,,Open
+REQ-2317,Asset Management,Field Technician,Zuid,Screened,2025-11-24,28,,Open
+REQ-2318,IT & Digital,Field Technician,Zuid,Offer Made,2026-01-19,2,,Open
+REQ-2319,Finance,Engineer,West,Screened,2026-02-14,3,,Open
+REQ-2320,HR,Analyst,West,Screened,2026-01-21,13,,Open
+REQ-2321,IT & Digital,Manager,Centraal,Interviewed,2026-03-19,26,,Open
+REQ-2322,IT & Digital,Office Specialist,West,Interviewed,2026-04-12,11,,Open
+REQ-2323,Customer Services,Project Lead,Oost,Hired,2026-02-03,28,2026-04-06,Closed
+REQ-2324,Asset Management,Office Specialist,Oost,Applications,2026-03-16,3,,Open
+REQ-2325,Finance,Engineer,Noord,Offer Made,2025-12-02,7,,Open
+REQ-2326,Grid Operations,Analyst,Zuid,Screened,2026-04-26,13,,Open
+REQ-2327,HR,Field Technician,Noord,Interviewed,2025-11-17,10,,Open
+REQ-2328,Safety & Compliance,Office Specialist,Zuid,Offer Made,2025-12-20,27,,Open
+REQ-2329,Finance,Manager,Noord,Applications,2026-02-02,19,,Open
+REQ-2330,HR,Field Technician,Oost,Applications,2026-02-13,18,,Open
+REQ-2331,Safety & Compliance,Field Technician,Noord,Interviewed,2025-12-25,14,,Open
+REQ-2332,IT & Digital,Engineer,Oost,Applications,2026-04-24,19,,Open
+REQ-2333,IT & Digital,Engineer,West,Applications,2025-12-04,6,,Open
+REQ-2334,Asset Management,Analyst,Zuid,Applications,2026-01-27,19,,Open
+REQ-2335,Engineering,Office Specialist,Zuid,Applications,2026-01-09,27,,Open
+REQ-2336,Asset Management,Analyst,Noord,Interviewed,2025-11-09,7,,Open
+REQ-2337,IT & Digital,Field Technician,Noord,Screened,2026-03-25,10,,Open
+REQ-2338,IT & Digital,Office Specialist,West,Screened,2025-12-16,17,,Open
+REQ-2339,Engineering,Manager,Noord,Interviewed,2026-03-15,6,,Open
+REQ-2340,Engineering,Office Specialist,West,Hired,2025-11-11,9,2026-01-04,Closed
+REQ-2341,IT & Digital,Engineer,Oost,Screened,2026-02-19,11,,Open
+REQ-2342,Grid Operations,Project Lead,Oost,Hired,2026-02-02,2,2026-04-06,Closed
+REQ-2343,Grid Operations,Engineer,Noord,Interviewed,2026-03-26,13,,Open
+REQ-2344,Customer Services,Project Lead,West,Screened,2026-04-01,6,,Open
+REQ-2345,IT & Digital,Engineer,Zuid,Applications,2026-03-30,4,,Open
+REQ-2346,HR,Engineer,Oost,Screened,2026-01-11,17,,Open
+REQ-2347,Grid Operations,Engineer,Centraal,Applications,2026-03-08,25,,Open
+REQ-2348,IT & Digital,Project Lead,West,Screened,2025-11-29,3,,Open
+REQ-2349,Finance,Field Technician,Oost,Screened,2026-03-01,13,,Open
+REQ-2350,Finance,Project Lead,Oost,Screened,2025-11-17,24,,Open
+REQ-2351,IT & Digital,Project Lead,Centraal,Applications,2025-11-26,23,,Open
+REQ-2352,Customer Services,Manager,Centraal,Screened,2025-11-11,25,,Open
+REQ-2353,HR,Field Technician,Noord,Applications,2026-01-17,23,,Open
+REQ-2354,Grid Operations,Project Lead,Zuid,Applications,2026-01-19,17,,Open
+REQ-2355,Finance,Project Lead,Oost,Screened,2025-12-25,28,,Open
+REQ-2356,IT & Digital,Engineer,West,Interviewed,2025-11-17,5,,Open
+REQ-2357,HR,Manager,West,Interviewed,2026-04-04,16,,Open
+REQ-2358,Grid Operations,Manager,West,Applications,2025-12-15,10,,Open
+REQ-2359,Safety & Compliance,Project Lead,Oost,Interviewed,2026-01-26,10,,Open
+REQ-2360,Safety & Compliance,Project Lead,Centraal,Screened,2026-02-28,22,,Open
+REQ-2361,IT & Digital,Analyst,Centraal,Applications,2026-01-15,16,,Open
+REQ-2362,Grid Operations,Office Specialist,Zuid,Screened,2026-01-01,29,,Open
+REQ-2363,Customer Services,Manager,Zuid,Applications,2026-04-01,20,,Open
+REQ-2364,Customer Services,Engineer,Noord,Offer Made,2025-11-30,11,,Open
+REQ-2365,Finance,Analyst,Oost,Applications,2026-03-18,18,,Open
+REQ-2366,Grid Operations,Analyst,Zuid,Screened,2026-01-28,28,,Open
+REQ-2367,Grid Operations,Analyst,Oost,Applications,2026-03-26,6,,Open
+REQ-2368,Engineering,Manager,Zuid,Applications,2026-04-29,3,,Open
+REQ-2369,Grid Operations,Manager,Noord,Screened,2025-12-19,24,,Open
+REQ-2370,Customer Services,Analyst,Noord,Offer Made,2026-02-26,2,,Open
+REQ-2371,IT & Digital,Engineer,Noord,Applications,2025-12-14,26,,Open
+REQ-2372,Engineering,Project Lead,Zuid,Applications,2026-02-26,12,,Open
+REQ-2373,IT & Digital,Field Technician,Zuid,Screened,2025-12-25,23,,Open
+REQ-2374,Engineering,Project Lead,West,Applications,2026-02-14,4,,Open
+REQ-2375,Finance,Project Lead,Zuid,Applications,2026-02-24,15,,Open
+REQ-2376,Engineering,Project Lead,Zuid,Applications,2026-02-20,14,,Open
+REQ-2377,Safety & Compliance,Office Specialist,Oost,Applications,2026-04-16,8,,Open
+REQ-2378,Engineering,Field Technician,Oost,Applications,2025-11-09,19,,Open
+REQ-2379,Customer Services,Office Specialist,Noord,Applications,2026-04-19,18,,Open
+REQ-2380,Grid Operations,Analyst,Zuid,Interviewed,2025-11-10,2,,Open
+REQ-2381,Safety & Compliance,Analyst,Oost,Applications,2025-11-30,20,,Open
+REQ-2382,IT & Digital,Project Lead,Zuid,Interviewed,2026-03-18,25,,Open
+REQ-2383,IT & Digital,Engineer,Zuid,Applications,2025-12-15,8,,Open
+REQ-2384,IT & Digital,Manager,Zuid,Applications,2026-04-29,17,,Open
+REQ-2385,Grid Operations,Analyst,Oost,Interviewed,2026-04-18,6,,Open
+REQ-2386,Grid Operations,Office Specialist,Centraal,Interviewed,2025-12-31,19,,Open
+REQ-2387,Engineering,Manager,Noord,Applications,2025-12-19,2,,Open
+REQ-2388,IT & Digital,Manager,Noord,Applications,2026-03-24,24,,Open
+REQ-2389,Asset Management,Analyst,Oost,Interviewed,2026-03-16,1,,Open
+REQ-2390,Engineering,Engineer,Centraal,Offer Made,2026-03-06,3,,Open
+REQ-2391,HR,Project Lead,Noord,Applications,2026-01-03,20,,Open
+REQ-2392,Engineering,Field Technician,Centraal,Applications,2025-12-03,2,,Open
+REQ-2393,Finance,Engineer,Centraal,Hired,2026-04-19,6,2026-05-23,Closed
+REQ-2394,Finance,Project Lead,Zuid,Hired,2026-03-31,25,2026-05-22,Closed
+REQ-2395,Engineering,Project Lead,Noord,Applications,2025-12-16,29,,Open
+REQ-2396,IT & Digital,Office Specialist,Noord,Applications,2026-01-29,1,,Open
+REQ-2397,Customer Services,Engineer,Noord,Applications,2026-02-13,20,,Open
+REQ-2398,HR,Field Technician,West,Screened,2026-03-20,17,,Open
+REQ-2399,Asset Management,Field Technician,West,Interviewed,2026-03-14,20,,Open
+REQ-2400,Safety & Compliance,Office Specialist,Centraal,Interviewed,2026-04-17,8,,Open
+REQ-2401,Grid Operations,Analyst,Centraal,Interviewed,2026-04-11,15,,Open
+REQ-2402,Customer Services,Office Specialist,Centraal,Interviewed,2025-11-12,9,,Open
+REQ-2403,Customer Services,Engineer,Oost,Interviewed,2026-03-14,13,,Open
+REQ-2404,Finance,Office Specialist,Centraal,Offer Made,2026-03-10,9,,Open
+REQ-2405,Asset Management,Analyst,Centraal,Applications,2025-12-15,24,,Open
+REQ-2406,HR,Manager,Noord,Applications,2026-05-05,10,,Open
+REQ-2407,HR,Office Specialist,Noord,Applications,2026-02-04,11,,Open
+REQ-2408,IT & Digital,Field Technician,Centraal,Applications,2025-12-15,6,,Open
+REQ-2409,Customer Services,Analyst,West,Screened,2026-02-23,7,,Open
+REQ-2410,IT & Digital,Field Technician,Oost,Offer Made,2026-04-07,12,,Open
+REQ-2411,Finance,Analyst,Oost,Applications,2026-04-04,6,,Open
+REQ-2412,Finance,Field Technician,Zuid,Applications,2026-04-08,17,,Open
+REQ-2413,Asset Management,Analyst,Noord,Applications,2025-12-09,21,,Open
+REQ-2414,Engineering,Engineer,Zuid,Offer Made,2026-01-04,10,,Open
+REQ-2415,Grid Operations,Project Lead,Oost,Screened,2026-05-05,11,,Open
+REQ-2416,Grid Operations,Field Technician,Noord,Applications,2025-11-23,8,,Open
+REQ-2417,IT & Digital,Office Specialist,Zuid,Applications,2025-12-20,27,,Open
+REQ-2418,Safety & Compliance,Project Lead,Zuid,Interviewed,2026-02-10,15,,Open
+REQ-2419,Customer Services,Field Technician,Oost,Applications,2025-11-13,24,,Open
+REQ-2420,IT & Digital,Office Specialist,Oost,Applications,2026-04-14,11,,Open
+REQ-2421,Engineering,Analyst,Centraal,Applications,2026-03-31,20,,Open
+REQ-2422,Finance,Engineer,Oost,Offer Made,2025-12-05,7,,Open
+REQ-2423,Engineering,Project Lead,Zuid,Offer Made,2026-04-26,11,,Open
+REQ-2424,Finance,Office Specialist,West,Offer Made,2025-12-31,21,,Open
+REQ-2425,HR,Project Lead,Oost,Screened,2026-01-22,5,,Open
+REQ-2426,Customer Services,Manager,Zuid,Screened,2025-12-11,24,,Open
+REQ-2427,Finance,Engineer,Centraal,Interviewed,2026-02-04,16,,Open
+REQ-2428,IT & Digital,Project Lead,Zuid,Screened,2025-12-23,9,,Open
+REQ-2429,Safety & Compliance,Office Specialist,Noord,Screened,2025-12-04,24,,Open
+REQ-2430,Asset Management,Project Lead,Zuid,Interviewed,2025-11-14,18,,Open
+REQ-2431,Customer Services,Field Technician,Noord,Interviewed,2026-01-06,6,,Open
+REQ-2432,Engineering,Field Technician,Oost,Applications,2026-03-03,5,,Open
+REQ-2433,Customer Services,Manager,Noord,Screened,2025-11-18,25,,Open
+REQ-2434,Safety & Compliance,Manager,West,Interviewed,2026-04-26,25,,Open
+REQ-2435,Grid Operations,Field Technician,Oost,Applications,2025-12-25,20,,Open
+REQ-2436,Asset Management,Office Specialist,West,Applications,2026-01-06,12,,Open
+REQ-2437,HR,Engineer,Oost,Applications,2025-12-15,4,,Open
+REQ-2438,Safety & Compliance,Office Specialist,Zuid,Hired,2025-11-20,22,2026-01-11,Closed
+REQ-2439,Engineering,Engineer,Zuid,Applications,2026-03-29,17,,Open
+REQ-2440,Asset Management,Field Technician,Zuid,Screened,2025-12-02,9,,Open
+REQ-2441,Grid Operations,Engineer,Zuid,Screened,2026-05-04,29,,Open
+REQ-2442,Safety & Compliance,Manager,Zuid,Applications,2026-04-21,6,,Open
+REQ-2443,Finance,Office Specialist,West,Applications,2026-04-14,21,,Open
+REQ-2444,Finance,Analyst,Oost,Applications,2026-04-09,1,,Open
+REQ-2445,Asset Management,Manager,Zuid,Interviewed,2026-02-16,26,,Open
+REQ-2446,Engineering,Analyst,Oost,Applications,2026-04-22,12,,Open
+REQ-2447,Finance,Field Technician,Noord,Interviewed,2026-04-05,13,,Open
+REQ-2448,Safety & Compliance,Field Technician,Oost,Applications,2026-01-17,11,,Open
+REQ-2449,Customer Services,Project Lead,Oost,Interviewed,2025-12-04,1,,Open
+REQ-2450,Finance,Field Technician,Oost,Applications,2026-03-05,23,,Open
+REQ-2451,Grid Operations,Project Lead,Oost,Applications,2026-05-04,28,,Open
+REQ-2452,Engineering,Field Technician,Centraal,Applications,2025-12-10,3,,Open
+REQ-2453,Engineering,Manager,Centraal,Applications,2026-03-31,19,,Open
+REQ-2454,Grid Operations,Field Technician,Centraal,Applications,2025-11-14,17,,Open
+REQ-2455,IT & Digital,Manager,Oost,Applications,2025-12-22,28,,Open
+REQ-2456,Customer Services,Project Lead,Oost,Offer Made,2026-01-01,2,,Open
+REQ-2457,Safety & Compliance,Office Specialist,Noord,Offer Made,2026-04-13,10,,Open
+REQ-2458,Safety & Compliance,Project Lead,West,Applications,2025-12-29,26,,Open
+REQ-2459,HR,Project Lead,West,Applications,2026-01-26,13,,Open
+REQ-2460,Asset Management,Field Technician,West,Applications,2025-11-14,3,,Open
+REQ-2461,Grid Operations,Manager,Noord,Screened,2025-11-10,17,,Open
+REQ-2462,HR,Project Lead,Noord,Interviewed,2025-12-14,6,,Open
+REQ-2463,IT & Digital,Manager,Centraal,Offer Made,2026-04-19,14,,Open
+REQ-2464,Engineering,Analyst,Centraal,Offer Made,2026-03-08,1,,Open
+REQ-2465,HR,Engineer,West,Interviewed,2025-11-23,28,,Open
+REQ-2466,IT & Digital,Office Specialist,West,Applications,2026-01-15,12,,Open
+REQ-2467,Asset Management,Engineer,Centraal,Applications,2026-03-29,6,,Open
+REQ-2468,HR,Project Lead,Oost,Hired,2026-03-18,1,2026-06-01,Closed
+REQ-2469,Grid Operations,Office Specialist,Centraal,Screened,2026-02-13,21,,Open
+REQ-2470,Grid Operations,Analyst,Oost,Interviewed,2026-04-27,1,,Open
+REQ-2471,Asset Management,Project Lead,West,Applications,2026-02-17,14,,Open
+REQ-2472,Engineering,Office Specialist,Oost,Applications,2026-02-16,11,,Open
+REQ-2473,Customer Services,Project Lead,Zuid,Screened,2025-12-04,27,,Open
+REQ-2474,Asset Management,Project Lead,Centraal,Screened,2025-11-21,1,,Open
+REQ-2475,Finance,Manager,Oost,Screened,2026-03-30,29,,Open
+REQ-2476,Safety & Compliance,Engineer,Oost,Screened,2026-02-22,2,,Open
+REQ-2477,Grid Operations,Manager,Zuid,Interviewed,2026-04-21,11,,Open
+REQ-2478,Safety & Compliance,Manager,Zuid,Offer Made,2026-03-29,3,,Open
+REQ-2479,Safety & Compliance,Project Lead,Noord,Screened,2026-03-15,23,,Open

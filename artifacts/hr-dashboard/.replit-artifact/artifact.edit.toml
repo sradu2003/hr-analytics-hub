@@ -1,0 +1,12 @@
+kind = "web"
+previewPath = "/"
+title = "HR Analytics Dashboard"
+version = "1.0.0"
+
+[[services]]
+localPort = 5000
+name = "HR Analytics Dashboard"
+paths = ["/"]
+
+[services.development]
+run = "cd artifacts/hr-dashboard && streamlit run app.py --server.port 5000"

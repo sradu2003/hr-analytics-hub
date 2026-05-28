@@ -1,0 +1,19 @@
+vacancy_id,department,role_type,region,open_date,days_open,target_fte,status
+VAC-3000,Grid Operations,Engineer,Zuid,2026-04-12,24,4,On Track
+VAC-3010,Asset Management,Field Technician,Noord,2026-01-17,109,1,Critical
+VAC-3011,Asset Management,Office Specialist,Zuid,2026-03-09,58,1,On Track
+VAC-3012,Asset Management,Field Technician,Centraal,2026-02-26,69,3,At Risk
+VAC-3013,Asset Management,Project Lead,Centraal,2026-01-17,109,3,Critical
+VAC-3014,Asset Management,Engineer,West,2026-03-31,36,2,On Track
+VAC-3020,IT & Digital,Office Specialist,Noord,2026-01-26,100,1,Critical
+VAC-3021,IT & Digital,Project Lead,West,2026-03-11,56,1,On Track
+VAC-3030,Finance,Project Lead,Noord,2026-03-25,42,4,On Track
+VAC-3040,HR,Project Lead,Zuid,2026-03-12,55,2,On Track
+VAC-3050,Customer Services,Engineer,Zuid,2026-05-01,5,3,On Track
+VAC-3060,Engineering,Manager,Centraal,2026-01-16,110,4,Critical
+VAC-3061,Engineering,Analyst,West,2026-04-16,20,2,On Track
+VAC-3062,Engineering,Office Specialist,West,2026-01-08,118,2,Critical
+VAC-3063,Engineering,Project Lead,Oost,2026-02-23,72,3,At Risk
+VAC-3064,Engineering,Engineer,Noord,2026-03-27,40,2,On Track
+VAC-3070,Safety & Compliance,Analyst,Zuid,2026-03-25,42,4,On Track
+VAC-3071,Safety & Compliance,Project Lead,Oost,2026-02-22,73,2,At Risk

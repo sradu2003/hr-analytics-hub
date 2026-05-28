@@ -1,0 +1,156 @@
+employee_id,department,region,absence_date,absence_days,absence_reason
+1049,Grid Operations,Oost,2025-08-11,1,Illness
+1049,Grid Operations,Oost,2025-09-13,2,Medical
+1109,Grid Operations,Noord,2026-03-12,3,Illness
+1487,Customer Services,Zuid,2025-10-05,2,Other
+1131,Grid Operations,West,2025-09-24,2,Medical
+1227,Asset Management,Centraal,2026-03-17,3,Family
+1578,Engineering,Centraal,2026-01-07,2,Illness
+1578,Engineering,Centraal,2025-12-15,1,Illness
+1578,Engineering,Centraal,2025-08-30,3,Family
+1426,Customer Services,Centraal,2025-07-31,1,Medical
+1184,Asset Management,Oost,2025-09-12,3,Illness
+1247,IT & Digital,West,2026-03-07,2,Family
+1055,Grid Operations,Oost,2026-04-28,5,Illness
+1523,Engineering,Centraal,2026-01-28,1,Family
+1499,Engineering,West,2025-09-22,1,Medical
+1039,Grid Operations,Oost,2026-01-23,1,Medical
+1145,Asset Management,West,2026-03-16,2,Illness
+1145,Asset Management,West,2025-08-26,2,Illness
+1118,Grid Operations,Oost,2025-12-09,1,Family
+1118,Grid Operations,Oost,2025-07-17,2,Illness
+1400,HR,Centraal,2025-12-03,3,Illness
+1400,HR,Centraal,2025-11-12,3,Illness
+1331,Finance,Noord,2026-02-21,3,Illness
+1132,Grid Operations,Noord,2026-04-07,1,Illness
+1086,Grid Operations,Oost,2025-08-09,1,Other
+1321,Finance,Zuid,2025-05-08,2,Illness
+1485,Customer Services,Oost,2026-02-25,1,Family
+1208,Asset Management,Centraal,2026-01-24,2,Family
+1393,HR,West,2026-01-25,1,Illness
+1346,Finance,Oost,2025-05-11,1,Family
+1346,Finance,Oost,2025-11-29,10,Illness
+1030,Grid Operations,Oost,2025-05-07,5,Family
+1030,Grid Operations,Oost,2025-10-17,2,Family
+1030,Grid Operations,Oost,2026-01-09,1,Illness
+1575,Engineering,Noord,2025-07-16,3,Illness
+1204,Asset Management,Centraal,2026-04-30,5,Illness
+1204,Asset Management,Centraal,2026-01-09,2,Illness
+1473,Customer Services,Noord,2025-11-30,2,Other
+1056,Grid Operations,Centraal,2025-10-21,1,Medical
+1228,Asset Management,Oost,2025-12-21,2,Illness
+1209,Asset Management,Zuid,2025-11-19,2,Illness
+1368,HR,Noord,2025-11-09,2,Illness
+1368,HR,Noord,2025-07-29,3,Illness
+1361,Finance,Zuid,2025-06-22,1,Illness
+1361,Finance,Zuid,2025-09-18,2,Illness
+1363,Finance,West,2026-04-04,2,Illness
+1363,Finance,West,2025-10-16,3,Family
+1468,Customer Services,West,2026-02-15,2,Illness
+1070,Grid Operations,Centraal,2025-10-23,1,Illness
+1616,Safety & Compliance,Centraal,2025-09-20,1,Illness
+1060,Grid Operations,Zuid,2026-02-11,1,Family
+1601,Safety & Compliance,Centraal,2026-02-09,2,Illness
+1203,Asset Management,West,2025-08-04,2,Illness
+1203,Asset Management,West,2026-03-30,2,Illness
+1590,Safety & Compliance,Oost,2025-07-29,2,Medical
+1590,Safety & Compliance,Oost,2025-08-19,1,Other
+1090,Grid Operations,Noord,2025-07-29,5,Medical
+1090,Grid Operations,Noord,2025-05-25,1,Illness
+1090,Grid Operations,Noord,2026-01-20,3,Illness
+1539,Engineering,West,2025-07-29,2,Illness
+1539,Engineering,West,2025-09-05,3,Family
+1509,Engineering,West,2025-06-27,3,Medical
+1509,Engineering,West,2025-05-29,2,Illness
+1509,Engineering,West,2025-08-12,2,Other
+1212,Asset Management,Zuid,2025-11-14,3,Family
+1212,Asset Management,Zuid,2025-10-06,1,Illness
+1212,Asset Management,Zuid,2025-10-23,1,Other
+1322,Finance,Oost,2025-05-12,1,Illness
+1289,IT & Digital,Oost,2025-08-19,3,Illness
+1155,Asset Management,Zuid,2026-02-17,2,Family
+1238,IT & Digital,Zuid,2026-03-29,1,Illness
+1405,HR,Zuid,2025-07-13,3,Illness
+1271,IT & Digital,Oost,2026-03-23,3,Illness
+1256,IT & Digital,Centraal,2026-01-28,1,Other
+1256,IT & Digital,Centraal,2025-08-18,1,Illness
+1256,IT & Digital,Centraal,2025-12-11,3,Illness
+1335,Finance,Zuid,2026-02-12,2,Family
+1580,Safety & Compliance,Zuid,2026-04-09,1,Family
+1260,IT & Digital,Zuid,2025-12-25,5,Illness
+1135,Grid Operations,Oost,2026-03-03,1,Medical
+1602,Safety & Compliance,Oost,2025-08-15,1,Illness
+1541,Engineering,Oost,2025-11-11,2,Illness
+1541,Engineering,Oost,2026-02-22,1,Family
+1541,Engineering,Oost,2026-03-07,2,Other
+1299,IT & Digital,Oost,2026-03-06,2,Medical
+1006,Grid Operations,Zuid,2025-11-03,5,Illness
+1104,Grid Operations,Centraal,2026-01-21,5,Family
+1104,Grid Operations,Centraal,2025-07-03,3,Illness
+1114,Grid Operations,Oost,2026-05-03,3,Illness
+1158,Asset Management,Oost,2025-07-05,3,Illness
+1181,Asset Management,Noord,2026-04-27,2,Family
+1531,Engineering,Noord,2026-02-15,1,Family
+1531,Engineering,Noord,2025-11-12,10,Illness
+1531,Engineering,Noord,2026-04-22,5,Medical
+1364,Finance,Noord,2025-11-17,1,Family
+1595,Safety & Compliance,Oost,2026-03-05,2,Illness
+1199,Asset Management,West,2026-03-17,1,Other
+1199,Asset Management,West,2026-02-17,2,Medical
+1421,Customer Services,Oost,2025-06-06,1,Family
+1408,Customer Services,Oost,2026-01-22,1,Family
+1408,Customer Services,Oost,2026-03-16,2,Family
+1396,HR,Noord,2025-05-29,3,Illness
+1286,IT & Digital,Centraal,2025-07-31,2,Illness
+1259,IT & Digital,Centraal,2025-09-03,2,Medical
+1612,Safety & Compliance,West,2025-12-09,1,Family
+1042,Grid Operations,Zuid,2026-05-04,1,Family
+1073,Grid Operations,Centraal,2025-08-01,1,Family
+1011,Grid Operations,Noord,2025-06-10,3,Other
+1332,Finance,West,2025-12-24,2,Illness
+1332,Finance,West,2025-10-29,1,Illness
+1079,Grid Operations,Noord,2025-08-29,2,Family
+1023,Grid Operations,Noord,2025-11-18,3,Illness
+1301,IT & Digital,West,2025-11-18,3,Family
+1280,IT & Digital,Noord,2026-03-11,3,Illness
+1244,IT & Digital,Centraal,2025-09-20,2,Illness
+1244,IT & Digital,Centraal,2026-04-10,1,Illness
+1290,IT & Digital,Zuid,2025-07-12,3,Illness
+1290,IT & Digital,Zuid,2025-08-29,3,Family
+1188,Asset Management,Noord,2025-10-09,5,Family
+1188,Asset Management,Noord,2025-06-22,10,Other
+1165,Asset Management,West,2026-03-12,1,Other
+1165,Asset Management,West,2026-01-04,1,Medical
+1296,IT & Digital,Centraal,2025-11-26,1,Family
+1009,Grid Operations,Zuid,2025-07-26,1,Illness
+1196,Asset Management,Zuid,2026-03-22,2,Medical
+1174,Asset Management,West,2025-06-06,2,Family
+1218,Asset Management,Zuid,2026-02-01,3,Illness
+1390,HR,Zuid,2025-09-20,5,Other
+1213,Asset Management,Centraal,2025-09-16,2,Medical
+1153,Asset Management,Centraal,2026-01-06,1,Family
+1153,Asset Management,Centraal,2025-12-26,10,Illness
+1075,Grid Operations,Oost,2025-12-22,10,Illness
+1075,Grid Operations,Oost,2026-02-22,5,Family
+1075,Grid Operations,Oost,2025-11-23,1,Illness
+1068,Grid Operations,Centraal,2025-07-18,2,Family
+1192,Asset Management,Centraal,2025-07-15,3,Illness
+1192,Asset Management,Centraal,2025-07-15,2,Illness
+1088,Grid Operations,Centraal,2025-07-23,3,Family
+1088,Grid Operations,Centraal,2026-04-14,3,Illness
+1518,Engineering,West,2026-05-02,2,Illness
+1409,Customer Services,Oost,2026-02-13,5,Other
+1409,Customer Services,Oost,2026-02-13,1,Illness
+1409,Customer Services,Oost,2026-03-18,3,Illness
+1033,Grid Operations,Noord,2025-06-09,1,Medical
+1613,Safety & Compliance,Zuid,2025-11-11,2,Medical
+1613,Safety & Compliance,Zuid,2025-12-24,1,Illness
+1553,Engineering,Noord,2025-07-06,3,Medical
+1553,Engineering,Noord,2025-07-14,1,Illness
+1553,Engineering,Noord,2026-03-30,1,Medical
+1369,HR,Oost,2025-07-27,1,Other
+1453,Customer Services,West,2025-12-14,2,Illness
+1551,Engineering,West,2026-04-06,3,Illness
+1022,Grid Operations,Centraal,2025-11-08,5,Illness
+1089,Grid Operations,Noord,2025-05-27,2,Illness
+1089,Grid Operations,Noord,2025-05-29,1,Illness

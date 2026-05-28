@@ -1,0 +1,621 @@
+employee_id,department,role_type,region,manager,hire_date,tenure_years,age,salary,salary_growth_pct,attrition_risk_score,attrition_risk_label,absence_risk_score,absence_risk_label,is_active,performance_score
+1000,Grid Operations,Office Specialist,Zuid,Manager G,2023-09-29,2.6,36,62772.0,6.05,0.126,Low,0.495,High,True,3
+1001,Grid Operations,Office Specialist,West,Manager L,2012-11-02,13.5,46,48698.0,4.63,0.01,Low,0.419,High,True,4
+1002,Grid Operations,Office Specialist,West,Manager I,2017-05-01,9.0,58,41188.0,3.75,0.01,Low,0.37,Medium,True,5
+1003,Grid Operations,Project Lead,Oost,Manager D,2020-09-29,5.6,61,53059.0,2.11,0.122,Low,0.297,Medium,True,1
+1004,Grid Operations,Manager,Centraal,Manager I,2025-03-05,1.2,45,38840.0,1.24,0.083,Low,0.424,High,True,3
+1005,Grid Operations,Office Specialist,Oost,Manager I,2025-01-10,1.3,56,38599.0,3.95,0.254,Low,0.223,Medium,True,4
+1006,Grid Operations,Project Lead,Zuid,Manager A,2018-07-04,7.8,48,30467.0,5.14,0.01,Low,0.453,High,True,3
+1007,Grid Operations,Analyst,Zuid,Manager D,2014-08-16,11.7,25,43413.0,2.56,0.129,Low,0.303,Medium,True,3
+1008,Grid Operations,Manager,Zuid,Manager J,2017-09-20,8.6,27,37211.0,2.54,0.074,Low,0.19,Low,True,3
+1009,Grid Operations,Field Technician,Zuid,Manager J,2024-02-27,2.2,29,39264.0,0.38,0.535,Medium,0.405,High,True,3
+1010,Grid Operations,Field Technician,Centraal,Manager A,2013-05-05,13.0,33,54777.0,-0.35,0.195,Low,0.29,Medium,True,3
+1011,Grid Operations,Engineer,Noord,Manager F,2021-05-09,5.0,53,37882.0,1.47,0.013,Low,0.689,High,True,4
+1012,Grid Operations,Manager,Zuid,Manager D,2022-12-16,3.4,27,64476.0,3.86,0.101,Low,0.362,Medium,True,5
+1013,Grid Operations,Project Lead,Oost,Manager C,2013-02-17,13.2,32,60683.0,1.43,0.01,Low,0.279,Medium,True,5
+1014,Grid Operations,Field Technician,Noord,Manager C,2015-11-27,10.4,26,58119.0,4.56,0.165,Low,0.324,Medium,True,4
+1015,Grid Operations,Field Technician,Zuid,Manager I,2014-08-08,11.8,41,52279.0,-0.7,0.293,Low,0.541,High,True,3
+1016,Grid Operations,Engineer,Noord,Manager A,2022-07-16,3.8,41,71118.0,1.53,0.051,Low,0.676,High,True,5
+1017,Grid Operations,Field Technician,Centraal,Manager L,2025-06-25,0.9,42,37020.0,8.47,0.258,Low,0.178,Low,True,5
+1018,Grid Operations,Analyst,Zuid,Manager L,2019-03-10,7.2,27,53510.0,4.48,0.064,Low,0.482,High,True,5
+1019,Grid Operations,Project Lead,Oost,Manager K,2024-07-16,1.8,24,65277.0,1.23,0.262,Low,0.268,Medium,True,4
+1020,Grid Operations,Analyst,West,Manager J,2018-06-01,7.9,47,58653.0,3.51,0.01,Low,0.305,Medium,True,3
+1021,Grid Operations,Manager,Oost,Manager F,2015-10-12,10.6,43,50087.0,2.17,0.01,Low,0.589,High,True,5
+1022,Grid Operations,Manager,Centraal,Manager B,2012-10-07,13.6,53,83668.0,6.69,0.01,Low,0.391,Medium,True,5
+1023,Grid Operations,Office Specialist,Noord,Manager B,2018-04-30,8.0,30,34970.0,2.26,0.013,Low,0.299,Medium,True,3
+1024,Grid Operations,Manager,Oost,Manager C,2012-12-16,13.4,26,39078.0,6.69,0.081,Low,0.9,High,True,3
+1025,Grid Operations,Analyst,West,Manager H,2018-04-19,8.1,52,42707.0,9.37,0.01,Low,0.308,Medium,True,2
+1026,Grid Operations,Office Specialist,Zuid,Manager L,2018-08-08,7.7,58,68644.0,3.89,0.01,Low,0.234,Medium,True,3
+1027,Grid Operations,Office Specialist,Centraal,Manager B,2021-08-25,4.7,55,49840.0,2.94,0.01,Low,0.427,High,True,3
+1028,Grid Operations,Project Lead,Centraal,Manager L,2019-03-30,7.1,45,33548.0,0.56,0.324,Medium,0.21,Medium,True,3
+1029,Grid Operations,Project Lead,West,Manager C,2025-01-06,1.3,40,55252.0,2.46,0.101,Low,0.223,Medium,True,3
+1030,Grid Operations,Analyst,Oost,Manager J,2016-02-22,10.2,44,50889.0,3.5,0.01,Low,0.259,Medium,True,4
+1031,Grid Operations,Office Specialist,Zuid,Manager J,2019-02-23,7.2,38,64646.0,2.13,0.016,Low,0.443,High,True,5
+1032,Grid Operations,Analyst,West,Manager F,2021-07-01,4.8,28,46379.0,2.57,0.018,Low,0.628,High,True,4
+1033,Grid Operations,Project Lead,Noord,Manager L,2024-11-07,1.5,60,49934.0,4.04,0.273,Low,0.464,High,True,5
+1034,Grid Operations,Engineer,West,Manager I,2021-01-10,5.3,42,52983.0,3.57,0.182,Low,0.253,Medium,True,1
+1035,Grid Operations,Manager,Centraal,Manager H,2022-05-24,4.0,53,45792.0,2.71,0.01,Low,0.498,High,True,3
+1036,Grid Operations,Field Technician,Centraal,Manager D,2012-11-10,13.5,48,59101.0,6.75,0.01,Low,0.302,Medium,True,5
+1037,Grid Operations,Field Technician,Zuid,Manager E,2023-04-27,3.0,54,34236.0,2.78,0.122,Low,0.192,Low,True,1
+1038,Grid Operations,Analyst,Zuid,Manager E,2024-09-13,1.6,22,59109.0,6.82,0.378,Medium,0.56,High,True,3
+1039,Grid Operations,Office Specialist,Oost,Manager B,2013-08-28,12.7,61,47353.0,-0.07,0.302,Medium,0.518,High,False,2
+1040,Grid Operations,Office Specialist,Zuid,Manager C,2012-10-18,13.6,38,62745.0,5.74,0.019,Low,0.319,Medium,True,4
+1041,Grid Operations,Project Lead,Oost,Manager C,2014-03-16,12.1,59,70288.0,4.73,0.01,Low,0.407,High,True,2
+1042,Grid Operations,Project Lead,Zuid,Manager K,2014-09-12,11.7,55,36722.0,5.41,0.01,Low,0.293,Medium,True,5
+1043,Grid Operations,Office Specialist,Zuid,Manager C,2017-02-26,9.2,48,43721.0,1.03,0.04,Low,0.214,Medium,True,3
+1044,Grid Operations,Office Specialist,Noord,Manager I,2024-08-31,1.7,47,40378.0,0.68,0.36,Medium,0.584,High,True,3
+1045,Grid Operations,Office Specialist,Zuid,Manager H,2014-10-23,11.5,44,55428.0,6.56,0.02,Low,0.459,High,True,4
+1046,Grid Operations,Manager,Oost,Manager G,2020-11-17,5.5,36,58524.0,2.02,0.01,Low,0.182,Low,True,2
+1047,Grid Operations,Field Technician,West,Manager C,2014-08-01,11.8,43,65580.0,6.05,0.043,Low,0.199,Low,True,3
+1048,Grid Operations,Project Lead,Zuid,Manager H,2015-08-30,10.7,54,52525.0,-1.56,0.01,Low,0.447,High,True,4
+1049,Grid Operations,Field Technician,Oost,Manager K,2018-01-30,8.3,51,44109.0,4.0,0.01,Low,0.142,Low,True,3
+1050,Grid Operations,Office Specialist,Centraal,Manager K,2025-06-26,0.9,41,49497.0,2.39,0.234,Low,0.467,High,True,3
+1051,Grid Operations,Field Technician,Noord,Manager K,2015-12-07,10.4,41,30000.0,4.67,0.01,Low,0.719,High,True,4
+1052,Grid Operations,Field Technician,West,Manager H,2020-09-15,5.6,35,48899.0,0.52,0.243,Low,0.469,High,True,5
+1053,Grid Operations,Project Lead,Zuid,Manager F,2024-06-15,1.9,46,60505.0,2.0,0.303,Medium,0.11,Low,True,3
+1054,Grid Operations,Project Lead,Zuid,Manager G,2016-01-02,10.3,61,44382.0,3.57,0.073,Low,0.484,High,True,5
+1055,Grid Operations,Manager,Oost,Manager J,2023-01-12,3.3,58,67653.0,2.01,0.031,Low,0.563,High,True,3
+1056,Grid Operations,Manager,Centraal,Manager B,2017-04-05,9.1,29,49871.0,1.89,0.102,Low,0.266,Medium,False,3
+1057,Grid Operations,Engineer,West,Manager J,2017-04-28,9.0,29,73811.0,-0.36,0.252,Low,0.216,Medium,True,5
+1058,Grid Operations,Office Specialist,Noord,Manager F,2013-11-29,12.4,25,69460.0,4.34,0.074,Low,0.244,Medium,True,3
+1059,Grid Operations,Field Technician,Centraal,Manager J,2018-09-07,7.7,30,50329.0,1.41,0.053,Low,0.307,Medium,True,3
+1060,Grid Operations,Manager,Zuid,Manager C,2024-12-15,1.4,48,36967.0,2.48,0.188,Low,0.182,Low,True,3
+1061,Grid Operations,Analyst,Noord,Manager G,2016-09-13,9.6,41,65871.0,1.4,0.01,Low,0.234,Medium,True,3
+1062,Grid Operations,Office Specialist,Noord,Manager C,2019-09-18,6.6,50,85839.0,0.79,0.311,Medium,0.106,Low,True,4
+1063,Grid Operations,Manager,Noord,Manager G,2012-09-11,13.7,31,30119.0,4.67,0.01,Low,0.238,Medium,True,3
+1064,Grid Operations,Office Specialist,Zuid,Manager H,2025-03-15,1.1,58,61006.0,0.89,0.407,Medium,0.279,Medium,True,5
+1065,Grid Operations,Analyst,Zuid,Manager D,2013-12-25,12.4,28,42915.0,4.38,0.137,Low,0.433,High,True,4
+1066,Grid Operations,Field Technician,Oost,Manager E,2012-12-13,13.4,44,69223.0,1.66,0.017,Low,0.257,Medium,True,1
+1067,Grid Operations,Field Technician,Zuid,Manager D,2019-01-20,7.3,30,54629.0,7.31,0.054,Low,0.385,Medium,True,3
+1068,Grid Operations,Manager,Centraal,Manager J,2020-05-26,5.9,38,54172.0,-2.16,0.166,Low,0.304,Medium,True,4
+1069,Grid Operations,Project Lead,Oost,Manager L,2016-08-04,9.8,47,65133.0,5.81,0.01,Low,0.366,Medium,True,5
+1070,Grid Operations,Project Lead,Centraal,Manager H,2025-08-03,0.8,60,61492.0,3.27,0.299,Low,0.126,Low,True,2
+1071,Grid Operations,Office Specialist,Noord,Manager G,2019-09-07,6.7,38,53847.0,6.31,0.01,Low,0.53,High,True,3
+1072,Grid Operations,Analyst,Noord,Manager G,2014-11-08,11.5,37,59562.0,4.22,0.067,Low,0.495,High,True,4
+1073,Grid Operations,Project Lead,Centraal,Manager G,2016-11-25,9.4,31,63813.0,0.5,0.408,Medium,0.409,High,True,4
+1074,Grid Operations,Field Technician,Zuid,Manager L,2023-07-17,2.8,56,66259.0,1.97,0.01,Low,0.528,High,True,3
+1075,Grid Operations,Project Lead,Oost,Manager G,2018-07-08,7.8,54,49723.0,3.53,0.071,Low,0.364,Medium,True,5
+1076,Grid Operations,Analyst,West,Manager I,2023-11-15,2.5,50,48793.0,5.82,0.01,Low,0.432,High,True,1
+1077,Grid Operations,Office Specialist,Centraal,Manager I,2016-07-07,9.8,35,47026.0,4.57,0.01,Low,0.414,High,True,2
+1078,Grid Operations,Project Lead,Zuid,Manager B,2019-12-25,6.4,58,66812.0,2.57,0.093,Low,0.626,High,True,4
+1079,Grid Operations,Project Lead,Noord,Manager H,2015-07-28,10.8,26,48628.0,5.84,0.054,Low,0.259,Medium,True,5
+1080,Grid Operations,Engineer,West,Manager I,2022-04-27,4.0,55,30000.0,1.24,0.01,Low,0.376,Medium,True,4
+1081,Grid Operations,Engineer,Oost,Manager H,2023-08-07,2.7,27,66698.0,4.81,0.103,Low,0.145,Low,True,4
+1082,Grid Operations,Office Specialist,West,Manager K,2021-06-07,4.9,34,61029.0,4.71,0.01,Low,0.41,High,True,2
+1083,Grid Operations,Office Specialist,Centraal,Manager K,2019-07-09,6.8,23,56761.0,3.06,0.202,Low,0.324,Medium,True,4
+1084,Grid Operations,Office Specialist,West,Manager L,2019-03-20,7.1,51,54443.0,2.34,0.045,Low,0.215,Medium,True,4
+1085,Grid Operations,Engineer,Zuid,Manager D,2023-09-04,2.7,22,47504.0,1.83,0.253,Low,0.556,High,True,5
+1086,Grid Operations,Manager,Oost,Manager D,2025-12-29,0.4,36,62784.0,4.97,0.148,Low,0.473,High,True,4
+1087,Grid Operations,Manager,Oost,Manager C,2021-06-29,4.9,26,41236.0,2.91,0.119,Low,0.356,Medium,True,5
+1088,Grid Operations,Engineer,Centraal,Manager L,2023-05-28,2.9,38,74518.0,-1.96,0.3,Low,0.462,High,True,2
+1089,Grid Operations,Analyst,Noord,Manager H,2025-10-12,0.6,23,76611.0,1.73,0.43,Medium,0.643,High,True,4
+1090,Grid Operations,Field Technician,Noord,Manager L,2024-02-08,2.2,54,66278.0,4.69,0.192,Low,0.341,Medium,True,2
+1091,Grid Operations,Office Specialist,Oost,Manager B,2015-01-10,11.3,51,55323.0,1.0,0.178,Low,0.365,Medium,True,4
+1092,Grid Operations,Office Specialist,West,Manager D,2019-11-19,6.5,53,59464.0,2.66,0.084,Low,0.252,Medium,True,4
+1093,Grid Operations,Analyst,Zuid,Manager J,2012-09-02,13.7,35,66402.0,1.7,0.01,Low,0.475,High,True,1
+1094,Grid Operations,Field Technician,Zuid,Manager C,2016-01-24,10.3,27,43801.0,4.51,0.086,Low,0.322,Medium,True,5
+1095,Grid Operations,Manager,West,Manager L,2020-09-07,5.7,45,50558.0,-0.73,0.128,Low,0.129,Low,True,5
+1096,Grid Operations,Project Lead,Centraal,Manager L,2021-03-06,5.2,60,62828.0,-0.15,0.146,Low,0.507,High,True,3
+1097,Grid Operations,Project Lead,West,Manager H,2026-02-04,0.2,58,54693.0,5.35,0.395,Medium,0.602,High,True,1
+1098,Grid Operations,Engineer,Oost,Manager C,2013-08-17,12.7,57,67877.0,2.91,0.038,Low,0.148,Low,True,3
+1099,Grid Operations,Analyst,West,Manager E,2019-08-21,6.7,41,71855.0,-0.21,0.257,Low,0.449,High,True,5
+1100,Grid Operations,Analyst,Zuid,Manager E,2023-06-13,2.9,58,68073.0,2.74,0.01,Low,0.437,High,True,4
+1101,Grid Operations,Engineer,Oost,Manager G,2025-10-03,0.6,55,36466.0,4.01,0.18,Low,0.304,Medium,True,5
+1102,Grid Operations,Project Lead,Oost,Manager A,2025-09-30,0.6,29,42521.0,2.08,0.302,Medium,0.22,Medium,True,1
+1103,Grid Operations,Engineer,Centraal,Manager E,2020-12-30,5.4,46,68266.0,5.37,0.01,Low,0.649,High,False,4
+1104,Grid Operations,Office Specialist,Centraal,Manager F,2015-08-14,10.7,34,66172.0,1.79,0.01,Low,0.636,High,True,3
+1105,Grid Operations,Analyst,Noord,Manager L,2015-12-08,10.4,45,66755.0,0.33,0.294,Low,0.417,High,True,1
+1106,Grid Operations,Office Specialist,Noord,Manager C,2016-12-16,9.4,56,68344.0,3.9,0.01,Low,0.41,High,True,2
+1107,Grid Operations,Engineer,Oost,Manager L,2014-01-20,12.3,58,53200.0,-0.27,0.261,Low,0.382,Medium,True,3
+1108,Grid Operations,Office Specialist,West,Manager B,2016-02-23,10.2,48,61637.0,3.12,0.062,Low,0.377,Medium,True,4
+1109,Grid Operations,Project Lead,Noord,Manager L,2016-02-04,10.3,57,45129.0,2.7,0.01,Low,0.215,Medium,True,3
+1110,Grid Operations,Field Technician,Oost,Manager K,2026-01-27,0.3,45,59608.0,5.3,0.226,Low,0.2,Medium,True,2
+1111,Grid Operations,Office Specialist,Noord,Manager G,2017-10-10,8.6,26,61292.0,1.53,0.01,Low,0.409,High,True,4
+1112,Grid Operations,Project Lead,Centraal,Manager G,2024-11-22,1.5,46,47284.0,1.39,0.281,Low,0.53,High,True,4
+1113,Grid Operations,Field Technician,Noord,Manager K,2014-10-15,11.6,61,68568.0,6.43,0.093,Low,0.149,Low,True,3
+1114,Grid Operations,Engineer,Oost,Manager G,2021-05-07,5.0,24,66585.0,-0.99,0.33,Medium,0.156,Low,False,4
+1115,Grid Operations,Manager,Noord,Manager L,2016-11-10,9.5,37,33448.0,-0.11,0.054,Low,0.298,Medium,False,1
+1116,Grid Operations,Project Lead,Oost,Manager H,2015-04-21,11.0,22,55902.0,5.45,0.058,Low,0.325,Medium,True,3
+1117,Grid Operations,Field Technician,Zuid,Manager C,2021-09-18,4.6,42,66480.0,0.56,0.143,Low,0.34,Medium,True,3
+1118,Grid Operations,Field Technician,Oost,Manager F,2013-12-13,12.4,58,55313.0,-1.94,0.165,Low,0.467,High,True,2
+1119,Grid Operations,Office Specialist,Noord,Manager B,2014-07-13,11.8,56,58860.0,3.06,0.01,Low,0.272,Medium,True,3
+1120,Grid Operations,Analyst,Oost,Manager D,2020-09-24,5.6,27,50539.0,1.02,0.141,Low,0.33,Medium,True,4
+1121,Grid Operations,Engineer,Centraal,Manager C,2020-12-09,5.4,23,31294.0,1.07,0.133,Low,0.293,Medium,True,3
+1122,Grid Operations,Manager,Noord,Manager D,2020-04-07,6.1,30,47639.0,2.4,0.01,Low,0.474,High,True,4
+1123,Grid Operations,Project Lead,Centraal,Manager F,2021-12-20,4.4,56,48912.0,0.66,0.056,Low,0.382,Medium,True,3
+1124,Grid Operations,Analyst,Centraal,Manager E,2023-08-20,2.7,22,66223.0,2.01,0.02,Low,0.253,Medium,True,2
+1125,Grid Operations,Manager,Centraal,Manager F,2013-03-06,13.2,39,53098.0,-1.61,0.164,Low,0.407,High,True,5
+1126,Grid Operations,Manager,Centraal,Manager L,2024-07-14,1.8,50,58902.0,2.67,0.263,Low,0.387,Medium,True,2
+1127,Grid Operations,Engineer,Noord,Manager E,2020-03-20,6.1,29,73738.0,2.27,0.115,Low,0.114,Low,False,5
+1128,Grid Operations,Analyst,Oost,Manager F,2019-02-16,7.2,49,42080.0,-0.56,0.202,Low,0.259,Medium,True,1
+1129,Grid Operations,Office Specialist,Oost,Manager J,2021-02-04,5.3,25,63514.0,4.28,0.198,Low,0.206,Medium,True,4
+1130,Grid Operations,Field Technician,Oost,Manager G,2022-07-05,3.8,53,44755.0,3.72,0.01,Low,0.3,Medium,True,4
+1131,Grid Operations,Field Technician,West,Manager I,2024-03-22,2.1,42,50572.0,4.72,0.01,Low,0.554,High,True,4
+1132,Grid Operations,Engineer,Noord,Manager F,2013-01-26,13.3,53,57172.0,0.41,0.338,Medium,0.424,High,True,2
+1133,Grid Operations,Engineer,Zuid,Manager G,2024-11-02,1.5,43,58280.0,7.6,0.236,Low,0.4,High,True,3
+1134,Grid Operations,Field Technician,West,Manager H,2015-11-23,10.5,29,64941.0,1.15,0.12,Low,0.241,Medium,True,4
+1135,Grid Operations,Office Specialist,Oost,Manager J,2020-03-09,6.2,34,44703.0,6.28,0.21,Low,0.207,Medium,True,5
+1136,Grid Operations,Engineer,Oost,Manager E,2020-02-18,6.2,25,62069.0,3.68,0.068,Low,0.225,Medium,True,2
+1137,Grid Operations,Manager,West,Manager C,2018-01-11,8.3,45,51929.0,5.05,0.047,Low,0.226,Medium,True,4
+1138,Grid Operations,Manager,Noord,Manager G,2017-12-15,8.4,57,30000.0,4.6,0.01,Low,0.162,Low,True,3
+1139,Grid Operations,Project Lead,West,Manager K,2014-05-06,12.0,25,63379.0,0.34,0.299,Low,0.512,High,True,4
+1140,Grid Operations,Analyst,West,Manager A,2018-07-20,7.8,38,47999.0,0.4,0.256,Low,0.351,Medium,True,4
+1141,Grid Operations,Manager,Noord,Manager D,2018-10-26,7.5,27,56702.0,2.45,0.02,Low,0.262,Medium,True,3
+1142,Grid Operations,Engineer,West,Manager B,2025-07-16,0.8,27,54744.0,1.51,0.156,Low,0.43,High,True,2
+1143,Grid Operations,Office Specialist,Centraal,Manager H,2019-02-23,7.2,35,56048.0,4.59,0.01,Low,0.227,Medium,True,1
+1144,Asset Management,Project Lead,Noord,Manager A,2013-03-01,13.2,25,45123.0,2.67,0.181,Low,0.436,High,True,2
+1145,Asset Management,Analyst,West,Manager H,2017-07-05,8.8,31,30000.0,0.98,0.176,Low,0.502,High,True,4
+1146,Asset Management,Project Lead,Zuid,Manager I,2018-06-16,7.9,42,54562.0,1.05,0.037,Low,0.413,High,True,3
+1147,Asset Management,Manager,Noord,Manager K,2023-03-06,3.2,54,70175.0,2.07,0.105,Low,0.148,Low,True,4
+1148,Asset Management,Office Specialist,West,Manager D,2013-05-10,13.0,36,37741.0,3.14,0.068,Low,0.079,Low,True,2
+1149,Asset Management,Analyst,West,Manager K,2017-12-13,8.4,49,48442.0,1.97,0.08,Low,0.203,Medium,True,2
+1150,Asset Management,Engineer,Noord,Manager D,2024-04-07,2.1,34,68709.0,3.78,0.01,Low,0.281,Medium,True,4
+1151,Asset Management,Manager,Noord,Manager K,2022-04-12,4.1,59,76695.0,3.7,0.022,Low,0.269,Medium,True,3
+1152,Asset Management,Manager,Oost,Manager I,2015-08-11,10.7,47,48196.0,2.52,0.01,Low,0.105,Low,True,4
+1153,Asset Management,Manager,Centraal,Manager B,2021-07-07,4.8,51,55455.0,3.27,0.096,Low,0.086,Low,True,3
+1154,Asset Management,Project Lead,Centraal,Manager C,2019-12-21,6.4,24,51893.0,3.25,0.255,Low,0.1,Low,True,4
+1155,Asset Management,Project Lead,Zuid,Manager K,2021-03-16,5.1,34,58386.0,4.49,0.01,Low,0.176,Low,True,5
+1156,Asset Management,Project Lead,Oost,Manager F,2015-05-17,11.0,41,53555.0,2.9,0.01,Low,0.37,Medium,True,4
+1157,Asset Management,Manager,Noord,Manager L,2020-01-08,6.3,28,67039.0,7.11,0.038,Low,0.708,High,True,3
+1158,Asset Management,Manager,Oost,Manager I,2019-07-31,6.8,51,61340.0,1.69,0.012,Low,0.052,Low,True,3
+1159,Asset Management,Manager,Centraal,Manager C,2013-07-14,12.8,42,56377.0,1.53,0.01,Low,0.479,High,True,2
+1160,Asset Management,Engineer,Oost,Manager D,2019-03-07,7.2,22,41555.0,2.78,0.268,Low,0.054,Low,True,2
+1161,Asset Management,Engineer,Noord,Manager A,2024-07-07,1.8,43,63906.0,1.21,0.076,Low,0.266,Medium,True,4
+1162,Asset Management,Field Technician,Centraal,Manager A,2014-02-10,12.2,29,52778.0,-0.19,0.255,Low,0.325,Medium,True,1
+1163,Asset Management,Analyst,Centraal,Manager A,2022-12-04,3.4,41,46564.0,2.38,0.01,Low,0.268,Medium,True,3
+1164,Asset Management,Field Technician,Centraal,Manager K,2023-10-04,2.6,42,56243.0,-1.32,0.195,Low,0.174,Low,True,4
+1165,Asset Management,Office Specialist,West,Manager J,2022-12-31,3.3,33,41518.0,0.6,0.282,Low,0.288,Medium,True,1
+1166,Asset Management,Field Technician,West,Manager B,2020-12-18,5.4,39,64824.0,0.59,0.215,Low,0.136,Low,True,3
+1167,Asset Management,Office Specialist,Oost,Manager C,2015-07-05,10.8,31,65295.0,5.35,0.01,Low,0.202,Medium,True,5
+1168,Asset Management,Engineer,Noord,Manager G,2025-01-15,1.3,37,58803.0,6.8,0.106,Low,0.453,High,True,4
+1169,Asset Management,Field Technician,Centraal,Manager F,2023-01-02,3.3,39,63792.0,1.52,0.01,Low,0.121,Low,True,5
+1170,Asset Management,Office Specialist,Zuid,Manager I,2017-07-08,8.8,44,64522.0,-0.5,0.194,Low,0.285,Medium,True,4
+1171,Asset Management,Office Specialist,West,Manager C,2018-12-18,7.4,41,55531.0,3.46,0.01,Low,0.167,Low,True,4
+1172,Asset Management,Field Technician,Centraal,Manager B,2023-07-22,2.8,33,43742.0,3.28,0.01,Low,0.233,Medium,True,3
+1173,Asset Management,Project Lead,Oost,Manager E,2022-08-28,3.7,27,59911.0,2.48,0.228,Low,0.121,Low,True,5
+1174,Asset Management,Project Lead,West,Manager E,2019-06-26,6.9,50,36524.0,0.03,0.215,Low,0.071,Low,True,3
+1175,Asset Management,Manager,Zuid,Manager G,2012-10-19,13.6,42,61010.0,0.48,0.131,Low,0.079,Low,True,4
+1176,Asset Management,Office Specialist,Zuid,Manager E,2017-06-02,8.9,39,68212.0,6.92,0.01,Low,0.249,Medium,True,4
+1177,Asset Management,Manager,Noord,Manager J,2021-01-17,5.3,33,58257.0,1.64,0.01,Low,0.282,Medium,True,3
+1178,Asset Management,Engineer,Zuid,Manager I,2021-09-09,4.7,54,33222.0,6.87,0.109,Low,0.301,Medium,True,4
+1179,Asset Management,Engineer,Zuid,Manager K,2014-06-10,11.9,30,34451.0,0.23,0.277,Low,0.42,High,True,5
+1180,Asset Management,Engineer,Noord,Manager C,2018-01-05,8.3,42,68745.0,1.94,0.01,Low,0.286,Medium,True,4
+1181,Asset Management,Office Specialist,Noord,Manager B,2019-12-24,6.4,30,61194.0,4.17,0.036,Low,0.265,Medium,True,2
+1182,Asset Management,Office Specialist,Noord,Manager G,2025-08-02,0.8,34,55362.0,4.22,0.212,Low,0.278,Medium,True,4
+1183,Asset Management,Engineer,Centraal,Manager G,2018-01-07,8.3,44,45934.0,2.69,0.056,Low,0.064,Low,True,3
+1184,Asset Management,Project Lead,Oost,Manager J,2022-07-12,3.8,43,62177.0,1.3,0.018,Low,0.72,High,True,3
+1185,Asset Management,Manager,Oost,Manager B,2019-10-13,6.6,34,76608.0,3.45,0.034,Low,0.242,Medium,True,3
+1186,Asset Management,Field Technician,Oost,Manager H,2020-12-09,5.4,47,63327.0,6.19,0.01,Low,0.542,High,True,4
+1187,Asset Management,Manager,Zuid,Manager E,2023-11-10,2.5,34,45169.0,-0.76,0.105,Low,0.322,Medium,True,3
+1188,Asset Management,Engineer,Noord,Manager D,2025-06-16,0.9,34,48041.0,1.34,0.166,Low,0.321,Medium,True,5
+1189,Asset Management,Project Lead,Zuid,Manager L,2019-01-06,7.3,56,69447.0,0.12,0.183,Low,0.391,Medium,True,4
+1190,Asset Management,Analyst,Centraal,Manager B,2015-06-10,10.9,43,63046.0,0.86,0.254,Low,0.196,Low,True,2
+1191,Asset Management,Project Lead,Oost,Manager E,2025-06-16,0.9,56,50921.0,5.0,0.291,Low,0.383,Medium,True,1
+1192,Asset Management,Manager,Centraal,Manager K,2013-10-18,12.6,31,62908.0,2.45,0.113,Low,0.215,Medium,True,4
+1193,Asset Management,Analyst,Noord,Manager A,2020-01-06,6.3,51,46369.0,0.75,0.163,Low,0.095,Low,True,4
+1194,Asset Management,Engineer,Noord,Manager G,2023-06-09,2.9,28,59270.0,4.54,0.082,Low,0.481,High,True,3
+1195,Asset Management,Field Technician,Centraal,Manager H,2023-01-30,3.3,44,52845.0,4.7,0.142,Low,0.214,Medium,True,3
+1196,Asset Management,Engineer,Zuid,Manager E,2017-02-22,9.2,47,49475.0,4.73,0.072,Low,0.166,Low,True,4
+1197,Asset Management,Field Technician,Oost,Manager E,2021-09-27,4.6,52,61211.0,2.36,0.012,Low,0.059,Low,True,4
+1198,Asset Management,Project Lead,Oost,Manager J,2018-06-24,7.9,42,56292.0,3.82,0.01,Low,0.08,Low,True,2
+1199,Asset Management,Field Technician,West,Manager C,2019-08-01,6.8,32,68479.0,6.23,0.01,Low,0.237,Medium,True,3
+1200,Asset Management,Field Technician,Zuid,Manager K,2020-08-14,5.7,47,37132.0,1.36,0.105,Low,0.285,Medium,True,4
+1201,Asset Management,Engineer,West,Manager H,2013-07-13,12.8,51,71710.0,5.35,0.045,Low,0.249,Medium,True,4
+1202,Asset Management,Engineer,Centraal,Manager K,2020-01-11,6.3,61,61558.0,3.94,0.057,Low,0.264,Medium,True,3
+1203,Asset Management,Manager,West,Manager E,2024-04-10,2.1,55,47208.0,5.64,0.01,Low,0.337,Medium,True,5
+1204,Asset Management,Field Technician,Centraal,Manager J,2015-12-21,10.4,44,74322.0,-0.05,0.203,Low,0.076,Low,True,3
+1205,Asset Management,Office Specialist,Centraal,Manager E,2018-11-19,7.5,47,52819.0,3.35,0.053,Low,0.458,High,True,4
+1206,Asset Management,Engineer,Centraal,Manager D,2017-12-18,8.4,48,57564.0,-2.21,0.216,Low,0.308,Medium,True,3
+1207,Asset Management,Field Technician,Noord,Manager I,2025-05-03,1.0,26,66436.0,-1.42,0.436,Medium,0.193,Low,True,5
+1208,Asset Management,Analyst,Centraal,Manager G,2025-03-01,1.2,25,47944.0,5.43,0.316,Medium,0.327,Medium,True,2
+1209,Asset Management,Field Technician,Zuid,Manager G,2013-07-12,12.8,57,72517.0,-0.44,0.344,Medium,0.248,Medium,True,3
+1210,Asset Management,Field Technician,Noord,Manager I,2015-05-27,11.0,46,71819.0,3.34,0.01,Low,0.094,Low,True,2
+1211,Asset Management,Manager,West,Manager E,2025-08-23,0.7,38,50581.0,2.08,0.285,Low,0.283,Medium,True,2
+1212,Asset Management,Engineer,Zuid,Manager D,2021-10-22,4.5,53,56056.0,1.58,0.116,Low,0.291,Medium,True,4
+1213,Asset Management,Engineer,Centraal,Manager A,2017-12-17,8.4,40,58677.0,6.68,0.01,Low,0.032,Low,True,3
+1214,Asset Management,Engineer,Oost,Manager G,2017-08-18,8.7,58,57759.0,2.59,0.01,Low,0.17,Low,True,3
+1215,Asset Management,Project Lead,Centraal,Manager F,2022-03-14,4.1,27,69613.0,1.26,0.042,Low,0.052,Low,True,3
+1216,Asset Management,Engineer,Centraal,Manager H,2015-10-16,10.6,28,41070.0,0.63,0.342,Medium,0.244,Medium,True,5
+1217,Asset Management,Field Technician,Zuid,Manager A,2013-01-08,13.3,26,59094.0,0.42,0.18,Low,0.282,Medium,True,5
+1218,Asset Management,Manager,Zuid,Manager D,2016-11-18,9.5,48,53463.0,1.91,0.01,Low,0.322,Medium,True,4
+1219,Asset Management,Engineer,West,Manager K,2014-09-08,11.7,54,65277.0,6.53,0.081,Low,0.283,Medium,True,4
+1220,Asset Management,Field Technician,Noord,Manager D,2025-04-28,1.0,22,58322.0,3.09,0.23,Low,0.224,Medium,True,3
+1221,Asset Management,Manager,Centraal,Manager K,2021-02-13,5.2,56,59204.0,3.6,0.14,Low,0.348,Medium,True,5
+1222,Asset Management,Project Lead,Oost,Manager A,2018-06-23,7.9,26,43321.0,1.05,0.01,Low,0.141,Low,True,4
+1223,Asset Management,Project Lead,Noord,Manager G,2019-08-15,6.7,34,49310.0,5.65,0.012,Low,0.401,High,True,3
+1224,Asset Management,Engineer,Centraal,Manager B,2018-04-25,8.0,54,52488.0,3.61,0.058,Low,0.059,Low,True,4
+1225,Asset Management,Engineer,Oost,Manager I,2022-05-19,4.0,49,55032.0,-2.4,0.232,Low,0.094,Low,True,4
+1226,Asset Management,Manager,Centraal,Manager B,2017-12-08,8.4,22,54633.0,5.98,0.107,Low,0.233,Medium,True,3
+1227,Asset Management,Analyst,Centraal,Manager J,2016-06-22,9.9,48,90389.0,5.49,0.039,Low,0.425,High,True,5
+1228,Asset Management,Analyst,Oost,Manager G,2022-09-18,3.6,30,38640.0,3.62,0.01,Low,0.239,Medium,True,2
+1229,Asset Management,Analyst,Noord,Manager G,2021-06-11,4.9,44,61666.0,1.16,0.01,Low,0.551,High,True,3
+1230,Asset Management,Project Lead,West,Manager H,2016-03-18,10.1,32,39898.0,0.24,0.155,Low,0.216,Medium,True,4
+1231,Asset Management,Project Lead,Noord,Manager B,2024-11-14,1.5,50,30000.0,3.01,0.147,Low,0.461,High,True,4
+1232,Asset Management,Field Technician,Zuid,Manager I,2023-11-12,2.5,60,54461.0,2.4,0.01,Low,0.065,Low,True,5
+1233,IT & Digital,Analyst,Noord,Manager F,2015-06-10,10.9,49,67613.0,4.64,0.116,Low,0.426,High,True,5
+1234,IT & Digital,Project Lead,West,Manager I,2014-07-04,11.8,51,72162.0,1.21,0.066,Low,0.281,Medium,True,3
+1235,IT & Digital,Project Lead,Zuid,Manager G,2019-07-30,6.8,41,42066.0,1.62,0.072,Low,0.014,Low,True,4
+1236,IT & Digital,Field Technician,West,Manager H,2024-04-06,2.1,55,66616.0,3.54,0.241,Low,0.697,High,True,4
+1237,IT & Digital,Engineer,West,Manager I,2016-09-19,9.6,58,63024.0,1.16,0.028,Low,0.043,Low,True,4
+1238,IT & Digital,Project Lead,Zuid,Manager I,2022-01-04,4.3,33,37406.0,6.62,0.103,Low,0.172,Low,True,3
+1239,IT & Digital,Office Specialist,Oost,Manager A,2018-11-14,7.5,47,44107.0,6.04,0.194,Low,0.091,Low,True,3
+1240,IT & Digital,Project Lead,West,Manager J,2023-07-29,2.8,57,61639.0,4.23,0.162,Low,0.068,Low,True,1
+1241,IT & Digital,Project Lead,Oost,Manager F,2013-10-11,12.6,53,59196.0,-0.13,0.211,Low,0.215,Medium,True,4
+1242,IT & Digital,Analyst,Oost,Manager C,2022-10-19,3.5,59,74594.0,5.32,0.055,Low,0.253,Medium,True,4
+1243,IT & Digital,Manager,Zuid,Manager J,2013-06-30,12.9,56,57875.0,3.97,0.281,Low,0.235,Medium,True,4
+1244,IT & Digital,Engineer,Centraal,Manager C,2019-12-01,6.4,44,59412.0,-1.2,0.296,Low,0.332,Medium,True,3
+1245,IT & Digital,Engineer,Noord,Manager I,2023-02-03,3.3,42,48767.0,3.31,0.128,Low,0.153,Low,True,4
+1246,IT & Digital,Field Technician,Zuid,Manager K,2014-08-19,11.7,35,70340.0,3.34,0.088,Low,0.085,Low,True,5
+1247,IT & Digital,Office Specialist,West,Manager F,2014-11-07,11.5,34,69210.0,3.6,0.26,Low,0.54,High,True,5
+1248,IT & Digital,Field Technician,Zuid,Manager C,2019-01-27,7.3,37,53212.0,4.26,0.056,Low,0.261,Medium,True,3
+1249,IT & Digital,Office Specialist,Oost,Manager G,2015-07-17,10.8,51,60924.0,-0.69,0.267,Low,0.166,Low,True,5
+1250,IT & Digital,Analyst,West,Manager J,2020-07-06,5.8,61,51581.0,2.18,0.081,Low,0.216,Medium,True,4
+1251,IT & Digital,Project Lead,Oost,Manager G,2017-01-29,9.3,39,65574.0,2.24,0.188,Low,0.306,Medium,True,1
+1252,IT & Digital,Field Technician,Oost,Manager E,2017-04-17,9.1,22,53609.0,-0.77,0.388,Medium,0.242,Medium,True,4
+1253,IT & Digital,Manager,Oost,Manager K,2020-03-15,6.1,36,73202.0,3.72,0.01,Low,0.339,Medium,True,4
+1254,IT & Digital,Project Lead,Centraal,Manager A,2017-12-30,8.4,60,62043.0,6.13,0.098,Low,0.153,Low,True,3
+1255,IT & Digital,Project Lead,West,Manager E,2021-10-15,4.6,29,72723.0,0.66,0.347,Medium,0.168,Low,False,4
+1256,IT & Digital,Engineer,Centraal,Manager E,2020-06-23,5.9,35,65000.0,2.39,0.179,Low,0.4,High,True,3
+1257,IT & Digital,Analyst,Noord,Manager F,2016-07-30,9.8,25,61418.0,5.46,0.251,Low,0.079,Low,True,4
+1258,IT & Digital,Analyst,Noord,Manager L,2025-03-28,1.1,47,45598.0,3.86,0.379,Medium,0.128,Low,True,5
+1259,IT & Digital,Engineer,Centraal,Manager E,2024-09-26,1.6,50,52403.0,6.71,0.281,Low,0.199,Low,True,4
+1260,IT & Digital,Engineer,Zuid,Manager B,2013-09-29,12.6,30,79310.0,2.43,0.143,Low,0.221,Medium,True,3
+1261,IT & Digital,Project Lead,Zuid,Manager K,2021-06-21,4.9,33,69655.0,2.03,0.273,Low,0.257,Medium,True,3
+1262,IT & Digital,Field Technician,Noord,Manager C,2013-03-16,13.1,58,57143.0,2.14,0.245,Low,0.067,Low,True,4
+1263,IT & Digital,Manager,Oost,Manager F,2020-07-04,5.8,38,41855.0,4.09,0.049,Low,0.278,Medium,False,3
+1264,IT & Digital,Office Specialist,Oost,Manager H,2022-04-29,4.0,61,67461.0,4.7,0.084,Low,0.271,Medium,True,2
+1265,IT & Digital,Project Lead,Centraal,Manager I,2013-11-18,12.5,37,42796.0,4.88,0.141,Low,0.386,Medium,True,4
+1266,IT & Digital,Office Specialist,Oost,Manager D,2022-11-07,3.5,33,44540.0,2.21,0.166,Low,0.089,Low,True,4
+1267,IT & Digital,Project Lead,Centraal,Manager A,2015-03-25,11.1,42,69677.0,2.48,0.148,Low,0.117,Low,True,3
+1268,IT & Digital,Manager,Zuid,Manager F,2020-04-20,6.0,44,47271.0,4.09,0.136,Low,0.47,High,True,2
+1269,IT & Digital,Project Lead,Centraal,Manager E,2014-05-01,12.0,26,46221.0,2.5,0.232,Low,0.138,Low,True,3
+1270,IT & Digital,Project Lead,West,Manager J,2023-08-30,2.7,29,52453.0,3.67,0.208,Low,0.107,Low,True,3
+1271,IT & Digital,Field Technician,Oost,Manager F,2025-05-04,1.0,61,55360.0,3.39,0.292,Low,0.277,Medium,True,4
+1272,IT & Digital,Project Lead,Zuid,Manager H,2024-04-20,2.0,59,57276.0,-0.04,0.093,Low,0.258,Medium,True,5
+1273,IT & Digital,Field Technician,Oost,Manager J,2014-11-14,11.5,26,57285.0,3.9,0.206,Low,0.2,Medium,True,4
+1274,IT & Digital,Manager,Zuid,Manager A,2018-01-08,8.3,36,73427.0,4.22,0.133,Low,0.067,Low,True,3
+1275,IT & Digital,Manager,Centraal,Manager F,2014-06-28,11.9,28,49417.0,2.42,0.313,Medium,0.547,High,True,1
+1276,IT & Digital,Engineer,Noord,Manager G,2013-09-17,12.6,47,50252.0,-0.03,0.346,Medium,0.299,Medium,True,4
+1277,IT & Digital,Analyst,Centraal,Manager G,2014-12-19,11.4,51,57428.0,6.26,0.182,Low,0.292,Medium,True,3
+1278,IT & Digital,Office Specialist,Noord,Manager E,2017-12-23,8.4,27,70058.0,4.31,0.182,Low,0.194,Low,True,4
+1279,IT & Digital,Project Lead,Zuid,Manager F,2022-01-22,4.3,38,44633.0,5.56,0.095,Low,0.121,Low,True,3
+1280,IT & Digital,Project Lead,Noord,Manager L,2023-10-19,2.5,44,53743.0,-2.41,0.335,Medium,0.08,Low,True,4
+1281,IT & Digital,Office Specialist,Zuid,Manager K,2023-03-25,3.1,35,65404.0,2.08,0.044,Low,0.329,Medium,True,1
+1282,IT & Digital,Project Lead,Noord,Manager L,2025-06-10,0.9,39,60207.0,4.34,0.282,Low,0.091,Low,True,3
+1283,IT & Digital,Project Lead,West,Manager L,2013-04-08,13.1,29,31403.0,2.52,0.282,Low,0.103,Low,True,2
+1284,IT & Digital,Project Lead,Oost,Manager G,2025-11-08,0.5,37,37698.0,4.71,0.369,Medium,0.212,Medium,True,4
+1285,IT & Digital,Manager,Noord,Manager F,2014-09-17,11.6,58,35425.0,1.79,0.156,Low,0.209,Medium,True,4
+1286,IT & Digital,Project Lead,Centraal,Manager D,2021-02-21,5.2,44,47518.0,4.49,0.04,Low,0.102,Low,True,4
+1287,IT & Digital,Analyst,Oost,Manager D,2020-12-20,5.4,26,41249.0,3.96,0.164,Low,0.191,Low,False,5
+1288,IT & Digital,Analyst,Zuid,Manager E,2019-03-09,7.2,52,65715.0,6.66,0.091,Low,0.304,Medium,True,1
+1289,IT & Digital,Manager,Oost,Manager B,2023-07-25,2.8,45,68271.0,3.44,0.222,Low,0.358,Medium,True,4
+1290,IT & Digital,Manager,Zuid,Manager J,2023-01-01,3.3,40,65805.0,3.9,0.175,Low,0.148,Low,True,3
+1291,IT & Digital,Office Specialist,Oost,Manager I,2025-08-05,0.8,41,70734.0,1.69,0.397,Medium,0.167,Low,True,3
+1292,IT & Digital,Manager,West,Manager H,2012-09-23,13.6,60,42150.0,6.82,0.304,Medium,0.141,Low,True,1
+1293,IT & Digital,Project Lead,Oost,Manager J,2017-12-25,8.4,31,49970.0,5.43,0.133,Low,0.112,Low,True,4
+1294,IT & Digital,Manager,Oost,Manager F,2013-09-06,12.7,46,65484.0,2.01,0.05,Low,0.091,Low,True,3
+1295,IT & Digital,Field Technician,Noord,Manager F,2017-04-20,9.0,28,75818.0,3.4,0.201,Low,0.213,Medium,True,4
+1296,IT & Digital,Project Lead,Centraal,Manager K,2014-10-08,11.6,54,41174.0,3.36,0.227,Low,0.306,Medium,True,2
+1297,IT & Digital,Engineer,West,Manager C,2014-12-07,11.4,45,38850.0,1.41,0.105,Low,0.11,Low,True,4
+1298,IT & Digital,Engineer,West,Manager L,2020-05-31,5.9,54,43997.0,3.65,0.01,Low,0.283,Medium,True,3
+1299,IT & Digital,Office Specialist,Oost,Manager C,2020-03-10,6.2,43,52944.0,1.52,0.062,Low,0.641,High,True,2
+1300,IT & Digital,Office Specialist,Oost,Manager K,2012-10-01,13.6,36,36412.0,3.52,0.123,Low,0.217,Medium,True,5
+1301,IT & Digital,Field Technician,West,Manager J,2013-12-27,12.4,28,35695.0,1.96,0.393,Medium,0.093,Low,True,5
+1302,IT & Digital,Manager,West,Manager K,2022-07-24,3.8,46,48820.0,4.74,0.136,Low,0.234,Medium,True,4
+1303,IT & Digital,Field Technician,West,Manager C,2025-03-30,1.1,47,30000.0,2.72,0.377,Medium,0.039,Low,True,3
+1304,IT & Digital,Project Lead,Noord,Manager B,2018-10-20,7.5,59,30000.0,0.61,0.278,Low,0.235,Medium,True,2
+1305,IT & Digital,Project Lead,Oost,Manager D,2022-10-13,3.6,55,55777.0,3.22,0.087,Low,0.412,High,True,4
+1306,IT & Digital,Manager,West,Manager C,2024-01-12,2.3,48,41906.0,3.58,0.102,Low,0.077,Low,True,3
+1307,IT & Digital,Analyst,Centraal,Manager A,2020-03-13,6.2,33,72869.0,3.98,0.166,Low,0.209,Medium,True,3
+1308,IT & Digital,Office Specialist,West,Manager G,2020-05-27,5.9,31,46901.0,2.19,0.076,Low,0.224,Medium,True,1
+1309,IT & Digital,Project Lead,Oost,Manager L,2013-04-19,13.1,39,64689.0,3.05,0.01,Low,0.173,Low,True,4
+1310,IT & Digital,Field Technician,Oost,Manager F,2022-03-03,4.2,53,61885.0,0.45,0.332,Medium,0.267,Medium,True,3
+1311,IT & Digital,Engineer,West,Manager F,2020-11-21,5.5,24,56587.0,1.97,0.176,Low,0.511,High,True,4
+1312,Finance,Field Technician,Oost,Manager I,2017-02-26,9.2,30,40940.0,4.09,0.01,Low,0.176,Low,True,3
+1313,Finance,Project Lead,Noord,Manager D,2016-09-05,9.7,46,62742.0,4.49,0.026,Low,0.181,Low,True,4
+1314,Finance,Manager,West,Manager A,2020-01-02,6.3,48,30000.0,2.06,0.116,Low,0.297,Medium,True,2
+1315,Finance,Office Specialist,West,Manager B,2023-10-10,2.6,39,61138.0,6.87,0.117,Low,0.302,Medium,True,3
+1316,Finance,Office Specialist,West,Manager G,2012-12-15,13.4,43,41606.0,4.0,0.01,Low,0.46,High,True,3
+1317,Finance,Project Lead,West,Manager F,2025-10-02,0.6,56,78622.0,2.1,0.263,Low,0.131,Low,True,3
+1318,Finance,Project Lead,Centraal,Manager K,2013-01-26,13.3,44,74567.0,-2.25,0.158,Low,0.113,Low,True,3
+1319,Finance,Manager,Zuid,Manager F,2017-06-13,8.9,61,52798.0,-0.34,0.295,Low,0.123,Low,True,3
+1320,Finance,Field Technician,Oost,Manager B,2015-08-13,10.7,49,38116.0,3.69,0.201,Low,0.363,Medium,True,2
+1321,Finance,Analyst,Zuid,Manager A,2012-10-10,13.6,56,44328.0,5.76,0.018,Low,0.274,Medium,True,5
+1322,Finance,Office Specialist,Oost,Manager I,2021-07-17,4.8,40,59700.0,2.23,0.01,Low,0.395,Medium,True,2
+1323,Finance,Manager,West,Manager I,2023-05-11,3.0,31,37130.0,3.19,0.01,Low,0.563,High,True,4
+1324,Finance,Analyst,Centraal,Manager D,2016-12-22,9.4,41,42636.0,3.36,0.011,Low,0.354,Medium,True,3
+1325,Finance,Analyst,Oost,Manager L,2019-03-02,7.2,34,50286.0,0.27,0.263,Low,0.49,High,True,5
+1326,Finance,Field Technician,Oost,Manager D,2017-02-15,9.2,47,50017.0,4.39,0.059,Low,0.121,Low,True,3
+1327,Finance,Project Lead,West,Manager E,2021-09-14,4.6,24,46753.0,-0.56,0.26,Low,0.056,Low,True,4
+1328,Finance,Field Technician,Zuid,Manager H,2018-02-10,8.2,57,47389.0,-0.02,0.107,Low,0.321,Medium,True,5
+1329,Finance,Project Lead,Centraal,Manager I,2018-12-31,7.4,57,60337.0,1.35,0.012,Low,0.232,Medium,True,1
+1330,Finance,Engineer,Zuid,Manager D,2024-03-20,2.1,42,42281.0,0.81,0.26,Low,0.436,High,True,2
+1331,Finance,Engineer,Noord,Manager K,2012-12-12,13.4,56,54224.0,3.15,0.01,Low,0.186,Low,True,4
+1332,Finance,Engineer,West,Manager C,2025-01-19,1.3,38,66740.0,5.55,0.138,Low,0.223,Medium,True,4
+1333,Finance,Engineer,Oost,Manager D,2023-02-28,3.2,35,48831.0,2.58,0.061,Low,0.101,Low,True,3
+1334,Finance,Office Specialist,Oost,Manager F,2024-08-09,1.7,36,59171.0,0.26,0.25,Low,0.164,Low,True,3
+1335,Finance,Analyst,Zuid,Manager E,2016-02-19,10.2,51,35344.0,-0.57,0.24,Low,0.574,High,True,3
+1336,Finance,Engineer,Noord,Manager E,2018-11-14,7.5,60,51574.0,2.05,0.054,Low,0.289,Medium,True,4
+1337,Finance,Field Technician,Noord,Manager H,2018-08-25,7.7,50,58860.0,3.34,0.01,Low,0.095,Low,True,5
+1338,Finance,Field Technician,Centraal,Manager H,2019-08-16,6.7,37,67018.0,4.53,0.01,Low,0.106,Low,True,4
+1339,Finance,Engineer,Oost,Manager J,2023-08-02,2.8,51,52451.0,6.01,0.01,Low,0.317,Medium,True,3
+1340,Finance,Project Lead,Noord,Manager G,2019-01-25,7.3,33,65993.0,0.32,0.213,Low,0.237,Medium,True,4
+1341,Finance,Office Specialist,Oost,Manager A,2018-12-23,7.4,55,49527.0,4.93,0.09,Low,0.081,Low,True,1
+1342,Finance,Analyst,Noord,Manager C,2017-05-18,9.0,22,60337.0,3.36,0.204,Low,0.486,High,True,3
+1343,Finance,Office Specialist,Centraal,Manager D,2014-09-16,11.6,57,47329.0,1.22,0.01,Low,0.556,High,True,4
+1344,Finance,Office Specialist,Zuid,Manager B,2018-02-07,8.2,41,62368.0,1.42,0.027,Low,0.181,Low,True,5
+1345,Finance,Project Lead,Centraal,Manager J,2024-08-07,1.7,48,50201.0,3.54,0.2,Low,0.28,Medium,True,4
+1346,Finance,Manager,Oost,Manager G,2017-07-28,8.8,28,30000.0,3.5,0.203,Low,0.232,Medium,True,5
+1347,Finance,Project Lead,Zuid,Manager L,2014-12-07,11.4,33,74305.0,4.66,0.01,Low,0.078,Low,True,4
+1348,Finance,Engineer,Centraal,Manager F,2023-05-20,3.0,32,64613.0,3.29,0.01,Low,0.4,High,True,4
+1349,Finance,Analyst,Oost,Manager H,2023-09-01,2.7,45,60675.0,2.57,0.01,Low,0.383,Medium,True,3
+1350,Finance,Analyst,West,Manager B,2024-07-29,1.8,39,52354.0,3.42,0.137,Low,0.581,High,True,3
+1351,Finance,Office Specialist,Oost,Manager L,2023-05-16,3.0,40,54680.0,1.25,0.089,Low,0.277,Medium,True,3
+1352,Finance,Analyst,West,Manager H,2024-05-04,2.0,47,64896.0,5.39,0.01,Low,0.128,Low,True,3
+1353,Finance,Field Technician,Zuid,Manager J,2017-04-05,9.1,60,70905.0,0.19,0.148,Low,0.207,Medium,True,5
+1354,Finance,Project Lead,Oost,Manager L,2025-01-04,1.3,51,53898.0,7.53,0.205,Low,0.216,Medium,False,3
+1355,Finance,Manager,Zuid,Manager B,2022-07-17,3.8,24,77894.0,2.85,0.102,Low,0.299,Medium,True,4
+1356,Finance,Engineer,Zuid,Manager J,2021-03-06,5.2,41,68013.0,4.08,0.034,Low,0.285,Medium,True,3
+1357,Finance,Analyst,Zuid,Manager G,2022-11-21,3.5,32,59925.0,3.39,0.01,Low,0.372,Medium,True,4
+1358,Finance,Analyst,Zuid,Manager B,2023-09-24,2.6,42,46542.0,3.7,0.01,Low,0.337,Medium,True,1
+1359,Finance,Analyst,West,Manager H,2019-01-26,7.3,32,59982.0,1.68,0.01,Low,0.375,Medium,True,2
+1360,Finance,Office Specialist,Centraal,Manager L,2017-08-20,8.7,45,62331.0,-0.03,0.136,Low,0.393,Medium,True,2
+1361,Finance,Field Technician,Zuid,Manager B,2025-11-28,0.4,42,50889.0,-0.53,0.411,Medium,0.203,Medium,True,2
+1362,Finance,Analyst,Oost,Manager B,2024-01-30,2.3,61,55345.0,2.84,0.01,Low,0.264,Medium,True,4
+1363,Finance,Office Specialist,West,Manager A,2020-04-02,6.1,29,51684.0,1.37,0.122,Low,0.296,Medium,True,4
+1364,Finance,Analyst,Noord,Manager H,2016-11-03,9.5,37,38005.0,4.03,0.01,Low,0.378,Medium,True,3
+1365,Finance,Office Specialist,Centraal,Manager E,2018-10-22,7.5,33,57874.0,3.8,0.01,Low,0.243,Medium,True,4
+1366,Finance,Office Specialist,West,Manager I,2019-01-02,7.3,36,63517.0,3.66,0.067,Low,0.23,Medium,True,4
+1367,HR,Field Technician,West,Manager K,2025-05-27,0.9,36,61864.0,1.59,0.275,Low,0.414,High,True,3
+1368,HR,Office Specialist,Noord,Manager L,2018-10-03,7.6,37,51091.0,3.8,0.035,Low,0.437,High,True,5
+1369,HR,Project Lead,Oost,Manager G,2015-10-16,10.6,49,52842.0,3.32,0.013,Low,0.296,Medium,True,4
+1370,HR,Project Lead,Zuid,Manager J,2023-12-31,2.3,31,57659.0,1.27,0.01,Low,0.337,Medium,True,3
+1371,HR,Field Technician,Oost,Manager I,2024-07-13,1.8,39,58532.0,6.33,0.126,Low,0.66,High,True,3
+1372,HR,Project Lead,Oost,Manager A,2018-02-16,8.2,47,43025.0,3.45,0.084,Low,0.448,High,True,3
+1373,HR,Engineer,Zuid,Manager B,2016-02-26,10.2,45,58489.0,2.28,0.01,Low,0.247,Medium,True,3
+1374,HR,Field Technician,Oost,Manager G,2016-07-16,9.8,24,58565.0,1.97,0.119,Low,0.12,Low,True,3
+1375,HR,Office Specialist,Centraal,Manager C,2017-01-06,9.3,41,32657.0,3.22,0.01,Low,0.107,Low,True,2
+1376,HR,Analyst,Oost,Manager J,2024-07-06,1.8,55,46456.0,-0.96,0.31,Medium,0.214,Medium,True,5
+1377,HR,Field Technician,Centraal,Manager J,2017-06-23,8.9,42,53635.0,3.14,0.01,Low,0.114,Low,True,4
+1378,HR,Field Technician,Noord,Manager G,2024-11-17,1.5,50,54243.0,3.13,0.017,Low,0.566,High,True,3
+1379,HR,Analyst,Zuid,Manager A,2024-03-14,2.1,46,35238.0,4.21,0.01,Low,0.212,Medium,True,2
+1380,HR,Field Technician,Noord,Manager A,2015-01-02,11.3,44,30000.0,0.08,0.148,Low,0.295,Medium,True,5
+1381,HR,Project Lead,West,Manager C,2019-08-05,6.8,38,55371.0,2.14,0.026,Low,0.071,Low,True,3
+1382,HR,Project Lead,Centraal,Manager B,2018-07-02,7.8,50,50975.0,3.49,0.01,Low,0.323,Medium,True,1
+1383,HR,Engineer,Zuid,Manager C,2013-02-17,13.2,36,54252.0,2.64,0.101,Low,0.148,Low,True,3
+1384,HR,Field Technician,Centraal,Manager B,2020-11-20,5.5,53,64309.0,5.15,0.017,Low,0.189,Low,True,3
+1385,HR,Manager,Noord,Manager L,2019-06-02,6.9,30,64114.0,2.42,0.023,Low,0.023,Low,True,3
+1386,HR,Office Specialist,Oost,Manager F,2022-12-05,3.4,52,44199.0,-1.04,0.192,Low,0.146,Low,True,4
+1387,HR,Office Specialist,Oost,Manager F,2019-08-07,6.8,52,50750.0,5.08,0.129,Low,0.234,Medium,True,2
+1388,HR,Analyst,Oost,Manager D,2024-09-15,1.6,33,46039.0,-0.04,0.343,Medium,0.306,Medium,True,1
+1389,HR,Manager,Noord,Manager E,2012-12-03,13.4,40,52307.0,5.04,0.01,Low,0.101,Low,True,3
+1390,HR,Manager,Zuid,Manager K,2021-04-05,5.1,56,55392.0,1.6,0.057,Low,0.092,Low,True,4
+1391,HR,Office Specialist,Noord,Manager I,2016-01-03,10.3,60,68684.0,8.0,0.034,Low,0.693,High,True,4
+1392,HR,Analyst,Centraal,Manager B,2015-04-19,11.1,55,51192.0,2.12,0.01,Low,0.16,Low,True,3
+1393,HR,Office Specialist,West,Manager I,2019-08-08,6.7,44,57724.0,2.35,0.01,Low,0.283,Medium,True,4
+1394,HR,Office Specialist,Oost,Manager K,2022-04-10,4.1,58,65574.0,-0.48,0.156,Low,0.31,Medium,True,5
+1395,HR,Manager,Centraal,Manager G,2019-07-15,6.8,34,43366.0,2.84,0.034,Low,0.45,High,True,5
+1396,HR,Engineer,Noord,Manager F,2016-02-22,10.2,36,50148.0,3.93,0.01,Low,0.37,Medium,True,4
+1397,HR,Engineer,Zuid,Manager L,2020-06-08,5.9,60,53025.0,5.66,0.106,Low,0.162,Low,True,3
+1398,HR,Analyst,Oost,Manager B,2024-07-05,1.8,30,42299.0,-2.0,0.371,Medium,0.036,Low,True,4
+1399,HR,Analyst,Zuid,Manager A,2017-09-28,8.6,47,57761.0,1.02,0.074,Low,0.201,Medium,True,4
+1400,HR,Analyst,Centraal,Manager H,2013-11-27,12.4,46,50913.0,4.0,0.01,Low,0.492,High,True,3
+1401,HR,Analyst,West,Manager F,2018-01-25,8.3,58,56199.0,3.25,0.01,Low,0.452,High,True,4
+1402,HR,Office Specialist,Noord,Manager I,2015-12-02,10.4,57,50158.0,4.97,0.01,Low,0.078,Low,True,4
+1403,HR,Manager,Noord,Manager A,2021-09-18,4.6,39,62653.0,3.9,0.016,Low,0.323,Medium,True,3
+1404,HR,Office Specialist,Zuid,Manager H,2021-01-26,5.3,47,58430.0,2.32,0.01,Low,0.352,Medium,True,2
+1405,HR,Manager,Zuid,Manager E,2014-12-20,11.4,32,54697.0,5.55,0.018,Low,0.304,Medium,True,5
+1406,HR,Manager,West,Manager B,2020-05-11,6.0,47,38770.0,3.98,0.01,Low,0.088,Low,True,4
+1407,Customer Services,Analyst,Zuid,Manager F,2020-05-24,6.0,46,83782.0,8.35,0.255,Low,0.246,Medium,True,2
+1408,Customer Services,Analyst,Oost,Manager E,2021-11-01,4.5,23,56116.0,5.36,0.312,Medium,0.637,High,True,3
+1409,Customer Services,Manager,Oost,Manager C,2014-05-28,11.9,35,41909.0,4.59,0.16,Low,0.219,Medium,True,4
+1410,Customer Services,Field Technician,West,Manager D,2024-09-18,1.6,53,30000.0,3.74,0.317,Medium,0.145,Low,True,3
+1411,Customer Services,Office Specialist,Noord,Manager A,2024-03-26,2.1,50,40993.0,5.1,0.077,Low,0.202,Medium,True,5
+1412,Customer Services,Manager,Centraal,Manager H,2021-11-03,4.5,46,35705.0,6.46,0.053,Low,0.432,High,False,2
+1413,Customer Services,Office Specialist,Noord,Manager I,2013-04-20,13.1,51,62854.0,1.67,0.026,Low,0.519,High,True,4
+1414,Customer Services,Office Specialist,Oost,Manager L,2014-07-13,11.8,53,52934.0,5.46,0.119,Low,0.247,Medium,True,2
+1415,Customer Services,Project Lead,Centraal,Manager F,2023-09-04,2.7,24,54903.0,3.32,0.254,Low,0.269,Medium,True,2
+1416,Customer Services,Engineer,Centraal,Manager L,2024-05-31,1.9,43,37276.0,2.22,0.132,Low,0.328,Medium,True,4
+1417,Customer Services,Office Specialist,Zuid,Manager C,2015-03-28,11.1,29,58952.0,3.28,0.201,Low,0.265,Medium,True,4
+1418,Customer Services,Manager,Centraal,Manager E,2016-03-20,10.1,53,75715.0,1.67,0.061,Low,0.349,Medium,True,2
+1419,Customer Services,Field Technician,Oost,Manager A,2014-11-02,11.5,51,58107.0,4.06,0.088,Low,0.081,Low,True,3
+1420,Customer Services,Office Specialist,West,Manager C,2017-03-07,9.2,27,63142.0,2.72,0.321,Medium,0.314,Medium,True,3
+1421,Customer Services,Analyst,Oost,Manager C,2022-03-21,4.1,30,51118.0,0.68,0.294,Low,0.142,Low,True,3
+1422,Customer Services,Analyst,Noord,Manager K,2014-07-10,11.8,24,37826.0,4.65,0.143,Low,0.314,Medium,True,3
+1423,Customer Services,Manager,Oost,Manager I,2014-07-04,11.8,50,45446.0,1.1,0.113,Low,0.286,Medium,True,4
+1424,Customer Services,Project Lead,Centraal,Manager I,2022-02-06,4.2,24,58250.0,4.58,0.241,Low,0.342,Medium,True,4
+1425,Customer Services,Project Lead,Centraal,Manager I,2019-02-09,7.2,24,60881.0,4.1,0.062,Low,0.454,High,True,3
+1426,Customer Services,Office Specialist,Centraal,Manager D,2022-04-07,4.1,23,36610.0,3.24,0.176,Low,0.014,Low,True,3
+1427,Customer Services,Field Technician,Noord,Manager C,2017-12-14,8.4,47,40732.0,2.9,0.091,Low,0.271,Medium,True,3
+1428,Customer Services,Analyst,Noord,Manager H,2012-12-23,13.4,24,46893.0,4.23,0.234,Low,0.488,High,True,1
+1429,Customer Services,Manager,Noord,Manager H,2023-07-10,2.8,53,53468.0,3.16,0.077,Low,0.188,Low,True,3
+1430,Customer Services,Manager,Zuid,Manager J,2014-06-04,11.9,31,47920.0,3.52,0.202,Low,0.303,Medium,True,5
+1431,Customer Services,Project Lead,Zuid,Manager E,2020-05-03,6.0,38,60428.0,-1.37,0.058,Low,0.114,Low,True,3
+1432,Customer Services,Office Specialist,West,Manager I,2021-11-04,4.5,48,58499.0,3.41,0.184,Low,0.22,Medium,True,3
+1433,Customer Services,Project Lead,West,Manager C,2016-08-22,9.7,37,63816.0,3.74,0.161,Low,0.292,Medium,True,3
+1434,Customer Services,Field Technician,Noord,Manager E,2016-01-14,10.3,59,45268.0,5.85,0.086,Low,0.403,High,True,5
+1435,Customer Services,Office Specialist,Noord,Manager H,2024-01-01,2.3,52,62531.0,2.44,0.083,Low,0.11,Low,True,2
+1436,Customer Services,Manager,Oost,Manager F,2017-08-03,8.8,47,61698.0,-3.1,0.286,Low,0.259,Medium,True,3
+1437,Customer Services,Office Specialist,West,Manager B,2021-08-14,4.7,58,57973.0,6.2,0.241,Low,0.231,Medium,True,4
+1438,Customer Services,Engineer,Zuid,Manager L,2024-07-24,1.8,35,83056.0,2.53,0.219,Low,0.179,Low,True,2
+1439,Customer Services,Engineer,Centraal,Manager E,2022-11-19,3.5,34,66386.0,0.18,0.301,Medium,0.15,Low,True,4
+1440,Customer Services,Analyst,Noord,Manager G,2013-03-18,13.1,33,47704.0,0.97,0.3,Low,0.13,Low,True,3
+1441,Customer Services,Field Technician,Oost,Manager L,2023-03-03,3.2,36,50504.0,1.3,0.158,Low,0.173,Low,True,3
+1442,Customer Services,Analyst,Centraal,Manager H,2019-03-21,7.1,49,54939.0,1.69,0.096,Low,0.179,Low,True,3
+1443,Customer Services,Field Technician,West,Manager E,2019-03-11,7.2,35,55478.0,2.6,0.073,Low,0.075,Low,True,4
+1444,Customer Services,Office Specialist,Noord,Manager C,2023-10-25,2.5,44,56175.0,1.2,0.029,Low,0.319,Medium,True,3
+1445,Customer Services,Analyst,Zuid,Manager A,2022-10-10,3.6,25,57863.0,7.29,0.292,Low,0.157,Low,True,5
+1446,Customer Services,Analyst,Zuid,Manager B,2015-06-10,10.9,27,51513.0,1.81,0.396,Medium,0.478,High,True,4
+1447,Customer Services,Field Technician,Centraal,Manager A,2015-03-09,11.2,53,38985.0,4.58,0.198,Low,0.301,Medium,True,5
+1448,Customer Services,Project Lead,Oost,Manager F,2016-01-22,10.3,46,67122.0,0.58,0.296,Low,0.494,High,True,3
+1449,Customer Services,Project Lead,West,Manager F,2015-04-29,11.0,36,70705.0,1.98,0.211,Low,0.166,Low,True,4
+1450,Customer Services,Field Technician,West,Manager I,2018-05-13,8.0,27,57311.0,7.78,0.092,Low,0.02,Low,True,5
+1451,Customer Services,Field Technician,West,Manager L,2022-01-28,4.3,57,41188.0,-0.26,0.324,Medium,0.471,High,True,2
+1452,Customer Services,Analyst,Zuid,Manager G,2026-01-15,0.3,50,55685.0,3.57,0.326,Medium,0.46,High,True,2
+1453,Customer Services,Office Specialist,West,Manager L,2018-09-04,7.7,38,79506.0,7.35,0.176,Low,0.123,Low,True,3
+1454,Customer Services,Manager,Zuid,Manager I,2015-01-15,11.3,53,57790.0,4.8,0.183,Low,0.248,Medium,True,3
+1455,Customer Services,Field Technician,Oost,Manager L,2025-01-10,1.3,38,55052.0,4.62,0.38,Medium,0.41,High,True,4
+1456,Customer Services,Engineer,Centraal,Manager I,2018-10-03,7.6,50,61108.0,3.18,0.057,Low,0.346,Medium,True,4
+1457,Customer Services,Manager,Zuid,Manager D,2017-05-29,8.9,39,52454.0,1.69,0.187,Low,0.098,Low,True,4
+1458,Customer Services,Engineer,West,Manager E,2023-01-23,3.3,52,73524.0,3.17,0.158,Low,0.151,Low,True,3
+1459,Customer Services,Engineer,West,Manager B,2022-06-30,3.9,55,67036.0,2.97,0.16,Low,0.27,Medium,True,3
+1460,Customer Services,Engineer,Noord,Manager D,2022-02-25,4.2,51,45798.0,3.14,0.049,Low,0.309,Medium,True,4
+1461,Customer Services,Office Specialist,Centraal,Manager C,2023-09-18,2.6,33,71932.0,3.49,0.04,Low,0.29,Medium,True,4
+1462,Customer Services,Field Technician,Noord,Manager D,2021-11-23,4.5,33,57047.0,2.28,0.197,Low,0.203,Medium,True,5
+1463,Customer Services,Manager,West,Manager L,2015-07-10,10.8,32,41022.0,3.18,0.099,Low,0.174,Low,True,3
+1464,Customer Services,Engineer,Centraal,Manager B,2018-01-02,8.3,52,49664.0,1.88,0.127,Low,0.195,Low,True,4
+1465,Customer Services,Project Lead,Zuid,Manager K,2016-11-16,9.5,32,65844.0,2.75,0.103,Low,0.633,High,False,3
+1466,Customer Services,Engineer,Oost,Manager J,2019-04-01,7.1,30,56436.0,1.33,0.01,Low,0.147,Low,True,3
+1467,Customer Services,Field Technician,Centraal,Manager I,2015-04-15,11.1,50,55192.0,4.26,0.091,Low,0.566,High,True,4
+1468,Customer Services,Field Technician,West,Manager A,2014-11-29,11.4,46,58911.0,6.24,0.137,Low,0.224,Medium,True,5
+1469,Customer Services,Project Lead,Noord,Manager K,2023-01-30,3.3,43,38268.0,3.51,0.07,Low,0.076,Low,True,4
+1470,Customer Services,Manager,West,Manager L,2013-03-03,13.2,51,64446.0,2.58,0.132,Low,0.535,High,True,2
+1471,Customer Services,Engineer,Oost,Manager I,2019-07-02,6.8,27,69757.0,3.34,0.239,Low,0.313,Medium,True,4
+1472,Customer Services,Manager,West,Manager J,2018-02-10,8.2,27,90228.0,0.85,0.468,Medium,0.442,High,True,3
+1473,Customer Services,Analyst,Noord,Manager J,2014-01-10,12.3,45,75004.0,7.47,0.049,Low,0.484,High,True,3
+1474,Customer Services,Office Specialist,Oost,Manager G,2013-03-02,13.2,49,58718.0,4.32,0.098,Low,0.038,Low,True,2
+1475,Customer Services,Analyst,West,Manager G,2023-02-13,3.2,55,36198.0,5.27,0.079,Low,0.18,Low,True,3
+1476,Customer Services,Analyst,Oost,Manager B,2015-07-10,10.8,35,58164.0,5.44,0.289,Low,0.317,Medium,True,3
+1477,Customer Services,Engineer,Oost,Manager L,2020-10-07,5.6,50,64400.0,1.45,0.126,Low,0.319,Medium,True,3
+1478,Customer Services,Field Technician,Noord,Manager D,2025-10-23,0.5,23,68094.0,2.42,0.631,High,0.326,Medium,True,4
+1479,Customer Services,Analyst,Noord,Manager C,2024-05-01,2.0,40,51248.0,0.98,0.385,Medium,0.657,High,True,5
+1480,Customer Services,Analyst,West,Manager I,2012-09-13,13.7,41,41343.0,2.45,0.03,Low,0.168,Low,True,5
+1481,Customer Services,Manager,Noord,Manager K,2019-06-02,6.9,36,69366.0,3.1,0.039,Low,0.183,Low,True,2
+1482,Customer Services,Analyst,Oost,Manager D,2013-04-17,13.1,58,65942.0,1.66,0.155,Low,0.271,Medium,True,4
+1483,Customer Services,Field Technician,West,Manager L,2023-01-03,3.3,60,60134.0,2.45,0.01,Low,0.282,Medium,True,4
+1484,Customer Services,Field Technician,Centraal,Manager A,2019-08-17,6.7,31,45051.0,-0.21,0.29,Low,0.101,Low,True,4
+1485,Customer Services,Engineer,Oost,Manager E,2021-09-03,4.7,30,68915.0,-0.68,0.255,Low,0.324,Medium,True,5
+1486,Customer Services,Office Specialist,Zuid,Manager J,2016-08-18,9.7,30,61435.0,4.11,0.078,Low,0.395,Medium,True,3
+1487,Customer Services,Engineer,Zuid,Manager E,2016-10-14,9.6,26,75214.0,2.2,0.138,Low,0.509,High,True,3
+1488,Customer Services,Analyst,West,Manager J,2023-09-12,2.6,52,39032.0,-1.36,0.162,Low,0.128,Low,True,5
+1489,Customer Services,Analyst,Noord,Manager B,2023-02-03,3.3,28,57766.0,-0.79,0.445,Medium,0.148,Low,True,3
+1490,Customer Services,Project Lead,Oost,Manager L,2019-03-05,7.2,29,52792.0,-0.64,0.425,Medium,0.063,Low,True,4
+1491,Engineering,Office Specialist,Oost,Manager B,2022-07-23,3.8,55,52262.0,0.99,0.197,Low,0.079,Low,True,3
+1492,Engineering,Project Lead,Centraal,Manager L,2014-04-06,12.1,38,49057.0,5.43,0.01,Low,0.085,Low,True,5
+1493,Engineering,Manager,Zuid,Manager I,2021-03-28,5.1,48,52337.0,3.64,0.01,Low,0.091,Low,True,3
+1494,Engineering,Analyst,Oost,Manager L,2018-03-26,8.1,40,54058.0,1.71,0.01,Low,0.422,High,True,4
+1495,Engineering,Engineer,Oost,Manager A,2017-12-29,8.4,45,57993.0,2.25,0.01,Low,0.018,Low,True,3
+1496,Engineering,Project Lead,Noord,Manager G,2020-01-04,6.3,54,52391.0,5.06,0.149,Low,0.461,High,True,2
+1497,Engineering,Project Lead,Noord,Manager B,2017-07-05,8.8,43,48731.0,4.47,0.01,Low,0.385,Medium,True,4
+1498,Engineering,Project Lead,West,Manager B,2016-10-27,9.5,36,70942.0,0.93,0.116,Low,0.026,Low,True,3
+1499,Engineering,Manager,West,Manager E,2020-04-07,6.1,50,62990.0,5.0,0.01,Low,0.396,Medium,True,4
+1500,Engineering,Office Specialist,Zuid,Manager I,2026-01-24,0.3,49,64003.0,1.3,0.187,Low,0.385,Medium,True,4
+1501,Engineering,Engineer,West,Manager B,2022-04-28,4.0,41,72322.0,1.58,0.169,Low,0.139,Low,True,5
+1502,Engineering,Analyst,Centraal,Manager I,2023-01-20,3.3,56,54237.0,0.1,0.198,Low,0.318,Medium,True,5
+1503,Engineering,Project Lead,Centraal,Manager H,2022-03-15,4.1,36,51835.0,7.04,0.018,Low,0.043,Low,True,3
+1504,Engineering,Manager,Noord,Manager A,2016-10-16,9.6,49,62730.0,1.83,0.01,Low,0.32,Medium,True,4
+1505,Engineering,Manager,Noord,Manager D,2026-01-26,0.3,43,30000.0,1.89,0.23,Low,0.113,Low,True,4
+1506,Engineering,Manager,Oost,Manager I,2012-11-07,13.5,27,56361.0,3.92,0.139,Low,0.16,Low,True,3
+1507,Engineering,Analyst,Centraal,Manager H,2017-07-15,8.8,33,57647.0,4.32,0.141,Low,0.366,Medium,True,3
+1508,Engineering,Project Lead,Oost,Manager K,2018-02-05,8.3,39,51155.0,-0.56,0.226,Low,0.33,Medium,True,4
+1509,Engineering,Field Technician,West,Manager C,2015-04-05,11.1,53,49359.0,2.41,0.01,Low,0.154,Low,True,3
+1510,Engineering,Engineer,Centraal,Manager H,2013-08-09,12.7,55,30000.0,2.96,0.03,Low,0.109,Low,True,5
+1511,Engineering,Field Technician,West,Manager L,2017-01-14,9.3,39,48441.0,3.01,0.01,Low,0.232,Medium,True,3
+1512,Engineering,Field Technician,Oost,Manager F,2017-06-12,8.9,27,69159.0,7.14,0.157,Low,0.398,Medium,True,4
+1513,Engineering,Analyst,Zuid,Manager D,2015-02-09,11.2,47,46156.0,2.51,0.039,Low,0.126,Low,True,2
+1514,Engineering,Project Lead,Centraal,Manager K,2012-09-16,13.6,32,55319.0,2.47,0.04,Low,0.222,Medium,True,4
+1515,Engineering,Manager,Noord,Manager C,2016-01-03,10.3,31,68558.0,-1.04,0.244,Low,0.101,Low,True,1
+1516,Engineering,Office Specialist,Noord,Manager H,2024-05-21,2.0,45,65281.0,3.8,0.099,Low,0.036,Low,True,5
+1517,Engineering,Project Lead,Noord,Manager F,2012-11-20,13.5,42,62604.0,-0.25,0.17,Low,0.071,Low,True,3
+1518,Engineering,Analyst,West,Manager A,2024-05-07,2.0,26,57513.0,1.88,0.256,Low,0.367,Medium,False,3
+1519,Engineering,Analyst,Oost,Manager B,2018-04-28,8.0,22,62472.0,2.91,0.01,Low,0.212,Medium,True,2
+1520,Engineering,Field Technician,Oost,Manager E,2013-09-12,12.7,24,52948.0,6.66,0.102,Low,0.356,Medium,True,4
+1521,Engineering,Analyst,Zuid,Manager K,2023-02-13,3.2,45,52769.0,-0.12,0.427,Medium,0.245,Medium,True,4
+1522,Engineering,Office Specialist,West,Manager K,2014-03-28,12.1,56,30000.0,3.55,0.01,Low,0.134,Low,True,4
+1523,Engineering,Manager,Centraal,Manager J,2014-07-26,11.8,48,32584.0,2.43,0.01,Low,0.305,Medium,True,3
+1524,Engineering,Office Specialist,Noord,Manager H,2024-04-09,2.1,22,41324.0,6.21,0.09,Low,0.012,Low,True,2
+1525,Engineering,Engineer,Noord,Manager C,2020-07-24,5.8,45,72303.0,-1.87,0.255,Low,0.283,Medium,False,3
+1526,Engineering,Project Lead,West,Manager E,2013-11-01,12.5,28,69363.0,2.78,0.103,Low,0.221,Medium,True,4
+1527,Engineering,Field Technician,Noord,Manager G,2023-06-17,2.9,57,40867.0,10.2,0.01,Low,0.027,Low,True,3
+1528,Engineering,Manager,Oost,Manager L,2024-04-05,2.1,31,70710.0,0.98,0.368,Medium,0.321,Medium,True,4
+1529,Engineering,Office Specialist,Zuid,Manager L,2023-03-27,3.1,39,47808.0,1.93,0.01,Low,0.391,Medium,True,5
+1530,Engineering,Manager,Centraal,Manager E,2020-01-05,6.3,24,56922.0,3.94,0.149,Low,0.334,Medium,True,5
+1531,Engineering,Engineer,Noord,Manager F,2021-03-21,5.1,24,38309.0,2.04,0.157,Low,0.32,Medium,True,4
+1532,Engineering,Project Lead,Noord,Manager D,2022-02-26,4.2,54,36757.0,3.08,0.087,Low,0.147,Low,True,3
+1533,Engineering,Analyst,Zuid,Manager L,2023-05-21,3.0,34,45581.0,6.55,0.01,Low,0.262,Medium,True,5
+1534,Engineering,Office Specialist,Noord,Manager D,2022-01-11,4.3,25,39147.0,3.33,0.015,Low,0.329,Medium,True,3
+1535,Engineering,Manager,Oost,Manager L,2017-01-04,9.3,47,69172.0,3.81,0.064,Low,0.253,Medium,True,4
+1536,Engineering,Office Specialist,Centraal,Manager C,2022-09-05,3.7,54,70259.0,4.46,0.01,Low,0.18,Low,True,3
+1537,Engineering,Office Specialist,Zuid,Manager D,2023-02-06,3.2,58,40160.0,2.15,0.056,Low,0.166,Low,True,4
+1538,Engineering,Office Specialist,Zuid,Manager E,2019-02-22,7.2,54,62231.0,-0.1,0.22,Low,0.329,Medium,True,2
+1539,Engineering,Project Lead,West,Manager K,2014-06-07,11.9,43,72686.0,4.74,0.01,Low,0.414,High,True,4
+1540,Engineering,Field Technician,Noord,Manager L,2017-12-02,8.4,29,71636.0,4.2,0.059,Low,0.324,Medium,True,5
+1541,Engineering,Office Specialist,Oost,Manager E,2016-06-21,9.9,29,66265.0,0.55,0.345,Medium,0.167,Low,True,4
+1542,Engineering,Manager,Centraal,Manager L,2019-04-19,7.1,46,61693.0,2.8,0.098,Low,0.403,High,True,3
+1543,Engineering,Engineer,West,Manager A,2021-10-04,4.6,30,65861.0,2.73,0.081,Low,0.176,Low,True,3
+1544,Engineering,Manager,Noord,Manager I,2014-01-07,12.3,43,56641.0,3.3,0.157,Low,0.314,Medium,True,4
+1545,Engineering,Analyst,Noord,Manager K,2021-05-14,5.0,38,53858.0,2.85,0.037,Low,0.441,High,True,4
+1546,Engineering,Analyst,Zuid,Manager B,2025-05-16,1.0,37,41171.0,5.92,0.213,Low,0.524,High,True,2
+1547,Engineering,Engineer,Centraal,Manager G,2017-05-01,9.0,24,82852.0,4.21,0.038,Low,0.132,Low,True,5
+1548,Engineering,Office Specialist,West,Manager A,2014-06-30,11.9,54,75171.0,1.33,0.139,Low,0.232,Medium,True,4
+1549,Engineering,Project Lead,Oost,Manager E,2021-12-27,4.4,40,46830.0,-0.76,0.235,Low,0.154,Low,True,2
+1550,Engineering,Engineer,Zuid,Manager L,2015-04-13,11.1,50,56886.0,6.37,0.01,Low,0.09,Low,True,4
+1551,Engineering,Project Lead,West,Manager E,2016-05-28,9.9,47,62495.0,0.8,0.222,Low,0.256,Medium,True,5
+1552,Engineering,Manager,Noord,Manager J,2024-12-13,1.4,33,30000.0,1.48,0.181,Low,0.09,Low,True,4
+1553,Engineering,Field Technician,Noord,Manager B,2019-03-31,7.1,34,73364.0,1.44,0.01,Low,0.066,Low,True,3
+1554,Engineering,Analyst,Oost,Manager B,2024-01-06,2.3,56,76799.0,3.06,0.01,Low,0.05,Low,True,3
+1555,Engineering,Engineer,Zuid,Manager L,2025-04-10,1.1,43,79331.0,3.01,0.159,Low,0.341,Medium,True,3
+1556,Engineering,Office Specialist,Centraal,Manager L,2024-10-13,1.6,37,50609.0,2.57,0.261,Low,0.401,High,True,4
+1557,Engineering,Engineer,West,Manager B,2022-03-13,4.2,54,30000.0,1.74,0.01,Low,0.231,Medium,True,5
+1558,Engineering,Project Lead,Centraal,Manager A,2014-01-07,12.3,25,47659.0,0.31,0.268,Low,0.143,Low,True,2
+1559,Engineering,Office Specialist,Centraal,Manager D,2015-01-31,11.3,34,68477.0,3.77,0.026,Low,0.122,Low,True,3
+1560,Engineering,Manager,Oost,Manager B,2022-08-30,3.7,52,70077.0,0.05,0.282,Low,0.146,Low,True,5
+1561,Engineering,Project Lead,Oost,Manager K,2019-06-27,6.9,43,50206.0,3.26,0.01,Low,0.064,Low,True,3
+1562,Engineering,Manager,Centraal,Manager F,2012-10-22,13.5,56,54470.0,2.07,0.01,Low,0.051,Low,True,3
+1563,Engineering,Engineer,Zuid,Manager C,2025-03-10,1.2,22,49522.0,5.57,0.396,Medium,0.157,Low,True,2
+1564,Engineering,Field Technician,West,Manager C,2022-05-03,4.0,53,73248.0,2.9,0.01,Low,0.126,Low,True,3
+1565,Engineering,Analyst,Centraal,Manager F,2023-08-19,2.7,54,55327.0,0.89,0.357,Medium,0.291,Medium,True,2
+1566,Engineering,Office Specialist,West,Manager G,2013-11-18,12.5,59,68340.0,3.15,0.078,Low,0.14,Low,True,1
+1567,Engineering,Analyst,Zuid,Manager C,2014-12-25,11.4,51,62729.0,3.31,0.01,Low,0.033,Low,True,3
+1568,Engineering,Analyst,Zuid,Manager F,2019-01-02,7.3,41,47490.0,-1.05,0.184,Low,0.104,Low,True,4
+1569,Engineering,Field Technician,Oost,Manager D,2019-03-05,7.2,24,52341.0,0.12,0.228,Low,0.449,High,True,4
+1570,Engineering,Engineer,West,Manager F,2013-02-16,13.2,35,53303.0,7.15,0.01,Low,0.077,Low,True,3
+1571,Engineering,Field Technician,West,Manager C,2018-04-30,8.0,24,66416.0,-0.49,0.396,Medium,0.115,Low,True,3
+1572,Engineering,Project Lead,Oost,Manager K,2024-10-21,1.5,42,56334.0,2.44,0.111,Low,0.095,Low,True,5
+1573,Engineering,Field Technician,Zuid,Manager F,2021-12-03,4.4,40,66680.0,4.25,0.04,Low,0.224,Medium,True,1
+1574,Engineering,Office Specialist,Zuid,Manager B,2021-03-05,5.2,37,39600.0,7.29,0.01,Low,0.171,Low,True,4
+1575,Engineering,Manager,Noord,Manager B,2023-12-16,2.4,50,53317.0,3.91,0.025,Low,0.151,Low,False,3
+1576,Engineering,Engineer,Oost,Manager J,2017-10-14,8.6,24,68182.0,7.12,0.01,Low,0.095,Low,False,3
+1577,Engineering,Office Specialist,Zuid,Manager J,2025-06-23,0.9,23,72738.0,5.03,0.272,Low,0.572,High,True,3
+1578,Engineering,Field Technician,Centraal,Manager K,2016-09-01,9.7,42,64711.0,3.66,0.01,Low,0.404,High,True,4
+1579,Engineering,Engineer,Oost,Manager J,2025-09-26,0.6,25,73429.0,4.86,0.209,Low,0.032,Low,True,4
+1580,Safety & Compliance,Manager,Zuid,Manager H,2022-04-17,4.1,46,60250.0,4.53,0.01,Low,0.127,Low,True,4
+1581,Safety & Compliance,Field Technician,Zuid,Manager C,2014-11-01,11.5,55,76601.0,2.86,0.01,Low,0.253,Medium,True,2
+1582,Safety & Compliance,Engineer,Zuid,Manager E,2013-08-05,12.8,46,58121.0,2.2,0.058,Low,0.065,Low,True,2
+1583,Safety & Compliance,Project Lead,Centraal,Manager H,2022-06-17,3.9,58,51290.0,2.13,0.146,Low,0.216,Medium,True,3
+1584,Safety & Compliance,Office Specialist,Zuid,Manager J,2020-11-29,5.4,31,49151.0,1.42,0.11,Low,0.207,Medium,True,5
+1585,Safety & Compliance,Project Lead,Centraal,Manager K,2014-08-26,11.7,27,30872.0,3.61,0.195,Low,0.042,Low,True,1
+1586,Safety & Compliance,Field Technician,Noord,Manager H,2023-11-26,2.4,44,49200.0,5.13,0.01,Low,0.376,Medium,True,4
+1587,Safety & Compliance,Project Lead,Oost,Manager K,2017-12-26,8.4,58,73615.0,4.76,0.012,Low,0.135,Low,True,1
+1588,Safety & Compliance,Engineer,Zuid,Manager L,2015-12-02,10.4,37,75405.0,4.68,0.048,Low,0.218,Medium,True,4
+1589,Safety & Compliance,Analyst,Oost,Manager I,2025-12-31,0.3,33,43289.0,4.32,0.121,Low,0.152,Low,True,4
+1590,Safety & Compliance,Engineer,Oost,Manager L,2025-02-28,1.2,39,60703.0,4.89,0.179,Low,0.372,Medium,True,2
+1591,Safety & Compliance,Project Lead,Centraal,Manager C,2013-11-03,12.5,45,51634.0,0.19,0.297,Low,0.401,High,True,3
+1592,Safety & Compliance,Analyst,Noord,Manager J,2022-08-02,3.8,29,39930.0,2.01,0.021,Low,0.174,Low,False,4
+1593,Safety & Compliance,Project Lead,Zuid,Manager D,2015-12-03,10.4,29,80716.0,2.06,0.113,Low,0.522,High,True,2
+1594,Safety & Compliance,Project Lead,Centraal,Manager E,2021-05-15,5.0,45,43425.0,2.27,0.01,Low,0.258,Medium,True,2
+1595,Safety & Compliance,Engineer,Oost,Manager B,2014-01-16,12.3,52,72637.0,1.76,0.01,Low,0.125,Low,True,4
+1596,Safety & Compliance,Analyst,Noord,Manager L,2012-11-16,13.5,52,30000.0,3.89,0.01,Low,0.328,Medium,True,4
+1597,Safety & Compliance,Analyst,Centraal,Manager F,2015-08-08,10.8,57,40286.0,7.39,0.011,Low,0.488,High,True,3
+1598,Safety & Compliance,Office Specialist,West,Manager L,2016-03-08,10.2,22,52297.0,4.47,0.161,Low,0.14,Low,True,4
+1599,Safety & Compliance,Analyst,Noord,Manager F,2024-05-12,2.0,57,65972.0,0.86,0.296,Low,0.279,Medium,True,3
+1600,Safety & Compliance,Project Lead,Noord,Manager H,2021-03-23,5.1,49,54502.0,0.52,0.174,Low,0.136,Low,True,4
+1601,Safety & Compliance,Field Technician,Centraal,Manager G,2022-01-17,4.3,36,39769.0,6.07,0.087,Low,0.299,Medium,True,4
+1602,Safety & Compliance,Project Lead,Oost,Manager F,2025-10-14,0.6,27,56621.0,3.52,0.388,Medium,0.301,Medium,True,5
+1603,Safety & Compliance,Analyst,Centraal,Manager K,2024-04-01,2.1,34,56074.0,3.13,0.01,Low,0.08,Low,True,4
+1604,Safety & Compliance,Analyst,Zuid,Manager B,2021-07-23,4.8,27,67850.0,2.52,0.137,Low,0.404,High,True,3
+1605,Safety & Compliance,Analyst,Centraal,Manager F,2016-03-31,10.1,26,54515.0,0.49,0.298,Low,0.289,Medium,False,2
+1606,Safety & Compliance,Analyst,West,Manager E,2017-11-27,8.4,58,62801.0,-0.93,0.237,Low,0.384,Medium,True,4
+1607,Safety & Compliance,Project Lead,West,Manager L,2017-09-02,8.7,57,71949.0,3.13,0.01,Low,0.201,Medium,True,3
+1608,Safety & Compliance,Engineer,Zuid,Manager G,2018-10-21,7.5,30,56895.0,4.62,0.027,Low,0.295,Medium,False,3
+1609,Safety & Compliance,Manager,Centraal,Manager I,2022-08-07,3.7,23,44426.0,0.61,0.293,Low,0.223,Medium,True,5
+1610,Safety & Compliance,Manager,Zuid,Manager F,2017-05-27,8.9,26,59389.0,-0.82,0.33,Medium,0.362,Medium,True,3
+1611,Safety & Compliance,Project Lead,Oost,Manager H,2013-10-29,12.5,47,74817.0,2.96,0.01,Low,0.07,Low,True,5
+1612,Safety & Compliance,Manager,West,Manager B,2021-03-10,5.2,40,39392.0,5.4,0.01,Low,0.105,Low,True,3
+1613,Safety & Compliance,Office Specialist,Zuid,Manager K,2018-08-21,7.7,56,61451.0,4.11,0.093,Low,0.373,Medium,True,3
+1614,Safety & Compliance,Engineer,West,Manager C,2021-05-08,5.0,22,44117.0,1.18,0.156,Low,0.189,Low,True,5
+1615,Safety & Compliance,Engineer,Zuid,Manager K,2019-03-13,7.2,37,54754.0,4.25,0.038,Low,0.04,Low,True,3
+1616,Safety & Compliance,Manager,Centraal,Manager K,2017-04-06,9.1,38,64629.0,0.7,0.209,Low,0.402,High,True,2
+1617,Safety & Compliance,Field Technician,West,Manager B,2025-10-28,0.5,60,51397.0,0.4,0.451,Medium,0.181,Low,True,5
+1618,Safety & Compliance,Project Lead,Zuid,Manager H,2013-07-27,12.8,43,60715.0,3.76,0.019,Low,0.122,Low,True,4
+1619,Safety & Compliance,Manager,Noord,Manager L,2017-10-04,8.6,54,68871.0,5.1,0.033,Low,0.326,Medium,True,4
